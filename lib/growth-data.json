@@ -1,0 +1,1246 @@
+{
+  "references": [
+    {
+      "id": "g-18981485",
+      "title": "Ibutamoren in healthy older adults: body composition and clinical outcomes",
+      "year": "2008",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18981485/"
+    },
+    {
+      "id": "g-21067829",
+      "title": "Ibutamoren after hip fracture: phase IIb trial stopped for a heart-failure signal",
+      "year": "2011",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21067829/"
+    },
+    {
+      "id": "g-8954023",
+      "title": "Oral MK-677 and the GH–IGF-I axis in elderly subjects",
+      "year": "1996",
+      "type": "Clinical trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8954023/"
+    },
+    {
+      "id": "g-somatropin-label",
+      "title": "GENOTROPIN (somatropin): prescribing information",
+      "year": "Current label",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765"
+    },
+    {
+      "id": "g-10477776",
+      "title": "Increased mortality with growth hormone in critically ill adults",
+      "year": "1999",
+      "type": "Randomized trials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10477776/"
+    },
+    {
+      "id": "g-tesamorelin-label",
+      "title": "EGRIFTA WR (tesamorelin): prescribing information",
+      "year": "2025 label",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75"
+    },
+    {
+      "id": "g-18057338",
+      "title": "Tesamorelin and visceral adiposity in patients with HIV",
+      "year": "2007",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18057338/"
+    },
+    {
+      "id": "g-8772599",
+      "title": "GHRH-(1-29) treatment in growth hormone-deficient children",
+      "year": "1996",
+      "type": "Open-label study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8772599/"
+    },
+    {
+      "id": "g-18031173",
+      "title": "Sermorelin in pediatric growth hormone deficiency",
+      "year": "1999",
+      "type": "Clinical review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18031173/"
+    },
+    {
+      "id": "g-16352683",
+      "title": "CJC-1295: prolonged GH and IGF-I stimulation in healthy adults",
+      "year": "2006",
+      "type": "Early randomized trials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/"
+    },
+    {
+      "id": "g-25331030",
+      "title": "Ipamorelin for postoperative ileus: randomized proof-of-concept study",
+      "year": "2014",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/"
+    },
+    {
+      "id": "g-15699539",
+      "title": "GHRP-2 increases food intake in healthy men",
+      "year": "2005",
+      "type": "Small crossover experiment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15699539/"
+    },
+    {
+      "id": "g-10195374",
+      "title": "Hexarelin and GHRP-2: GH, prolactin, ACTH and cortisol responses",
+      "year": "1999",
+      "type": "Human endocrine experiment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10195374/"
+    },
+    {
+      "id": "g-23099431",
+      "title": "GHRP-6 pharmacokinetics in nine male healthy volunteers",
+      "year": "2013",
+      "type": "Phase 1 study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23099431/"
+    },
+    {
+      "id": "g-7617137",
+      "title": "GHRP-6 stimulates sleep, GH, ACTH and cortisol in men",
+      "year": "1995",
+      "type": "Human endocrine experiment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7617137/"
+    },
+    {
+      "id": "g-10341859",
+      "title": "Chronic hexarelin and the pituitary-adrenal axis and prolactin",
+      "year": "1999",
+      "type": "Small clinical study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10341859/"
+    },
+    {
+      "id": "g-42885452",
+      "title": "Human evidence for BPC-157: systematic review of efficacy and safety",
+      "year": "2026",
+      "type": "Systematic review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885452/"
+    },
+    {
+      "id": "g-40131143",
+      "title": "Intravenous BPC-157: safety pilot with two participants",
+      "year": "2025",
+      "type": "Uncontrolled pilot",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/"
+    },
+    {
+      "id": "g-27847966",
+      "title": "BPC-157 and VEGFR2-associated angiogenesis",
+      "year": "2017",
+      "type": "Preclinical study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27847966/"
+    },
+    {
+      "id": "g-42937313",
+      "title": "BPC-157, thymosin beta-4 and TB-500: evidence and clinical distinction",
+      "year": "2026",
+      "type": "Clinical evidence review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42937313/"
+    },
+    {
+      "id": "g-tb500-fda",
+      "title": "FDA briefing: TB-500-related bulk drug substances and molecular identity",
+      "year": "2026",
+      "type": "Regulatory scientific review",
+      "url": "https://www.fda.gov/media/193349/download"
+    },
+    {
+      "id": "g-peptide-safety",
+      "title": "FDA: compound-specific safety concerns for certain bulk drug substances",
+      "year": "2026 agency page",
+      "type": "Regulatory safety assessment",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+    },
+    {
+      "id": "g-aod-human",
+      "title": "AOD9604 safety analysis of six human trials",
+      "year": "2013",
+      "type": "Pooled clinical safety report",
+      "url": "https://doi.org/10.4021/jem157w"
+    },
+    {
+      "id": "g-aod-fda",
+      "title": "FDA Pharmacy Compounding Advisory Committee briefing on AOD-9604",
+      "year": "2024",
+      "type": "Regulatory scientific review",
+      "url": "https://www.fda.gov/media/183641/download"
+    },
+    {
+      "id": "g-22814748",
+      "title": "GW501516 and lipoproteins in patients with low HDL cholesterol",
+      "year": "2012",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22814748/"
+    },
+    {
+      "id": "g-gw-warning",
+      "title": "GW501516: WADA alert following serious preclinical toxicities",
+      "year": "2013",
+      "type": "Institutional safety alert",
+      "url": "https://www.fia.com/sites/default/files/13-03-21_alert_-_gw501516.pdf"
+    },
+    {
+      "id": "g-31127047",
+      "title": "SR9009 has REV-ERB-independent effects on proliferation and metabolism",
+      "year": "2019",
+      "type": "Cell and genetic-model study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31127047/"
+    },
+    {
+      "id": "g-36988910",
+      "title": "SLU-PP-332: ERR-dependent exercise response and capacity in mice",
+      "year": "2023",
+      "type": "Animal and cell study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36988910/"
+    },
+    {
+      "id": "g-41850449",
+      "title": "Chemical optimization of the SLU-PP-332 ERR agonist scaffold",
+      "year": "2026",
+      "type": "Preclinical medicinal chemistry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41850449/"
+    },
+    {
+      "id": "g-41688415",
+      "title": "SLU-PP-332: in vitro metabolism and analytical characterization",
+      "year": "2026",
+      "type": "In vitro metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41688415/"
+    },
+    {
+      "id": "g-33567185",
+      "title": "STEP 1: semaglutide in adults with overweight or obesity",
+      "year": "2021",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/"
+    },
+    {
+      "id": "g-semaglutide-label",
+      "title": "WEGOVY (semaglutide): prescribing information",
+      "year": "Current label",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b"
+    },
+    {
+      "id": "g-35658024",
+      "title": "SURMOUNT-1: tirzepatide for obesity",
+      "year": "2022",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35658024/"
+    },
+    {
+      "id": "g-tirzepatide-label",
+      "title": "ZEPBOUND (tirzepatide): prescribing information",
+      "year": "2026 label",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b"
+    },
+    {
+      "id": "g-37366315",
+      "title": "Retatrutide for obesity: phase 2 trial",
+      "year": "2023",
+      "type": "Randomized phase 2 trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37366315/"
+    },
+    {
+      "id": "g-42810372",
+      "title": "TRIUMPH-2: retatrutide in obesity and type 2 diabetes",
+      "year": "2026",
+      "type": "Randomized phase 3 trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/"
+    },
+    {
+      "id": "g-reta-triumph1",
+      "title": "TRIUMPH-1: retatrutide for obesity without diabetes",
+      "year": "2026",
+      "type": "Randomized phase 3 trial",
+      "url": "https://doi.org/10.1056/NEJMoa2604169"
+    },
+    {
+      "id": "g-reta-status",
+      "title": "Retatrutide: investigational status and current trial program",
+      "year": "October 2026",
+      "type": "Sponsor status information",
+      "url": "https://www.lilly.com/news/stories/what-to-know-about-retatrutide"
+    },
+    {
+      "id": "g-gw-hsa",
+      "title": "HSA: GW501516 toxicity and animal-cancer findings",
+      "year": "2017",
+      "type": "Regulatory safety alert",
+      "url": "https://www.hsa.gov.sg/announcements/hsa-alert-bodybuilding-products-sold-online-contain-harmful-substances/"
+    }
+  ],
+  "compounds": [
+    {
+      "id": "ibutamoren",
+      "name": "Ibutamoren",
+      "alias": "MK-677 · MK-0677 · LUM-201",
+      "category": "Growth & peptides",
+      "target": "Ghrelin receptor (GHSR1a)",
+      "evidence": "Human trials",
+      "description": "An oral growth hormone secretagogue; it is not a SARM.",
+      "mechanism": "Ghrelin-receptor agonism stimulates endogenous GH release and raises IGF-I.",
+      "findings": "An older-adult trial increased fat-free mass without improving strength or function. Glucose control worsened. A separate hip-fracture trial was stopped for a heart-failure signal.",
+      "limits": "Older and medically vulnerable populations differ from healthy users. Lean mass is not proof of functional benefit.",
+      "kinetics": "Oral exposure was studied. Duration of hormonal effects is not the same as elimination half-life.",
+      "risks": "Appetite, fluid retention, myalgia and impaired glucose regulation were observed; heart-failure concern is population-specific, not a quantified universal risk.",
+      "interactions": "Clinical combination data remain limited; glucose-lowering therapy and conditions sensitive to fluid retention require assessment.",
+      "refs": [
+        "g-18981485",
+        "g-21067829",
+        "g-8954023"
+      ],
+      "query": "ibutamoren OR \"MK-677\" OR \"MK-0677\" OR \"LUM-201\"",
+      "tags": [
+        "Ghrelin agonist",
+        "Glucose regulation"
+      ],
+      "adverse": [
+        {
+          "effect": "Higher glucose / reduced insulin sensitivity",
+          "context": "Observed in the randomized older-adult study.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "g-18981485",
+            "g-8954023"
+          ],
+          "frequency": "Mean fasting glucose rose by 5 mg/dL (0.3 mmol/L) in the older-adult trial. This is a laboratory change, not diabetes incidence."
+        },
+        {
+          "effect": "Appetite increase, edema, muscle pain",
+          "context": "Reported during the older-adult trial; some symptoms were transient.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "g-18981485"
+          ]
+        },
+        {
+          "effect": "Congestive heart failure signal",
+          "context": "The elderly hip-fracture study ended early; this does not estimate risk in young healthy adults.",
+          "certainty": "Serious clinical signal",
+          "refs": [
+            "g-21067829"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term cardiovascular outcomes in healthy users.",
+        "Whether body-composition changes produce meaningful functional benefit."
+      ]
+    },
+    {
+      "id": "somatropin",
+      "name": "Somatropin",
+      "alias": "Recombinant human growth hormone · rhGH",
+      "category": "Growth & peptides",
+      "target": "Growth hormone receptor",
+      "evidence": "Human trials",
+      "description": "Recombinant GH used for defined clinical indications, with substantial safety monitoring requirements.",
+      "mechanism": "Activates GH-receptor signaling and alters IGF-I production, growth and metabolism.",
+      "findings": "Replacement research and labeling concern diagnosed disorders. In separate critical-illness trials, pharmacologic GH treatment increased mortality.",
+      "limits": "Critical-illness findings must not be conflated with properly indicated replacement, and replacement data do not establish enhancement safety.",
+      "kinetics": "Formulation and route determine exposure; endocrine effects outlast a simple blood concentration measurement.",
+      "risks": "Fluid retention, musculoskeletal symptoms and impaired glucose tolerance are labeled risks. Active malignancy and acute critical illness are important contraindication contexts.",
+      "interactions": "Glucocorticoids, glucose-lowering medicines and thyroid replacement may require clinical reassessment.",
+      "refs": [
+        "g-somatropin-label",
+        "g-10477776"
+      ],
+      "query": "somatropin OR \"recombinant human growth hormone\"",
+      "tags": [
+        "GH receptor",
+        "Endocrinology"
+      ],
+      "adverse": [
+        {
+          "effect": "Edema, arthralgia, paresthesia / carpal tunnel",
+          "context": "Recognized particularly in adult replacement therapy.",
+          "certainty": "Established label risk",
+          "refs": [
+            "g-somatropin-label"
+          ]
+        },
+        {
+          "effect": "Glucose intolerance / diabetes",
+          "context": "Treatment can unmask abnormal glucose regulation.",
+          "certainty": "Established label warning",
+          "refs": [
+            "g-somatropin-label"
+          ]
+        },
+        {
+          "effect": "Increased mortality in acute critical illness",
+          "context": "Demonstrated in hospitalized critically ill adults receiving pharmacologic GH.",
+          "certainty": "Randomized clinical harm signal",
+          "refs": [
+            "g-10477776"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Safety of nonmedical exposure cannot be inferred from replacement practice.",
+        "Individual risks depend strongly on underlying disease."
+      ]
+    },
+    {
+      "id": "tesamorelin",
+      "name": "Tesamorelin",
+      "alias": "EGRIFTA · GHRH analogue",
+      "category": "Growth & peptides",
+      "target": "GHRH receptor",
+      "evidence": "Human trials",
+      "description": "A GHRH analogue studied for excess visceral fat in adults with HIV-associated lipodystrophy.",
+      "mechanism": "Stimulates pituitary GH secretion and increases IGF-I.",
+      "findings": "A randomized trial reduced visceral adiposity in adults with HIV and abdominal fat accumulation.",
+      "limits": "This clinical indication does not establish general-purpose weight-loss or bodybuilding benefit.",
+      "kinetics": "Formulations differ; product-specific pharmacokinetics and preparation are not interchangeable.",
+      "risks": "Labeling identifies hyperglycemia, edema, joint symptoms, hypersensitivity and injection reactions. Prolonged elevated IGF-I has unresolved consequences.",
+      "interactions": "GH-mediated changes can affect CYP-metabolized drugs; glucocorticoid replacement and diabetes therapy need review.",
+      "refs": [
+        "g-18057338",
+        "g-tesamorelin-label"
+      ],
+      "query": "tesamorelin OR EGRIFTA",
+      "tags": [
+        "Visceral adiposity",
+        "GHRH analogue"
+      ],
+      "adverse": [
+        {
+          "effect": "Glucose intolerance / diabetes",
+          "context": "Diabetes developed more often than with placebo in the clinical program.",
+          "certainty": "Established label warning",
+          "refs": [
+            "g-tesamorelin-label"
+          ]
+        },
+        {
+          "effect": "Edema, arthralgia, carpal tunnel symptoms",
+          "context": "Fluid-retention reactions are recognized.",
+          "certainty": "Established label risk",
+          "refs": [
+            "g-tesamorelin-label"
+          ]
+        },
+        {
+          "effect": "Hypersensitivity / injection-site reactions",
+          "context": "Rash, urticaria and local reactions occurred in trials.",
+          "certainty": "Human trial and label evidence",
+          "refs": [
+            "g-tesamorelin-label"
+          ]
+        },
+        {
+          "effect": "Neoplasm-related precautions",
+          "context": "Active malignancy is a contraindication; this is not proof that treatment causes cancer.",
+          "certainty": "Contraindication / uncertainty",
+          "refs": [
+            "g-tesamorelin-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Effects of persistently elevated IGF-I over long periods.",
+        "Benefits and harms outside the studied indication."
+      ]
+    },
+    {
+      "id": "sermorelin",
+      "name": "Sermorelin",
+      "alias": "GHRH-(1–29) · GRF 1–29",
+      "category": "Growth & peptides",
+      "target": "GHRH receptor",
+      "evidence": "Human trials",
+      "description": "A short GHRH analogue historically studied in pediatric growth hormone deficiency.",
+      "mechanism": "Stimulates GH release from responsive pituitary tissue.",
+      "findings": "An open-label pediatric study examined growth during one year of treatment; it did not test healthy-adult longevity or performance.",
+      "limits": "Historical pediatric efficacy and diagnostic use do not validate modern anti-aging claims.",
+      "kinetics": "A short peptide whose kinetics depend on route. GH responses should not be treated as evidence of sustained clinical benefit.",
+      "risks": "Published historical clinical experience does not supply a complete risk estimate for contemporary adult use.",
+      "interactions": "Interactions and endocrine effects in current adult combination regimens are inadequately characterized.",
+      "refs": [
+        "g-8772599",
+        "g-18031173"
+      ],
+      "query": "sermorelin OR \"GHRH-(1-29)\"",
+      "tags": [
+        "GHRH analogue",
+        "Historical clinical use"
+      ],
+      "adverse": [
+        {
+          "effect": "Local reactions / flushing",
+          "context": "Reported in historical clinical review; contemporary adult incidence is uncertain.",
+          "certainty": "Historical clinical reporting",
+          "refs": [
+            "g-18031173"
+          ]
+        },
+        {
+          "effect": "Long-term adult adverse effects",
+          "context": "Pediatric and diagnostic data do not quantify risks of adult nonmedical exposure.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-8772599",
+            "g-18031173"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Controlled adult outcome and safety studies for claimed anti-aging use.",
+        "Current product identity and formulation equivalence."
+      ]
+    },
+    {
+      "id": "cjc1295",
+      "name": "CJC-1295",
+      "alias": "Long-acting GHRH analogue · DAC form",
+      "category": "Growth & peptides",
+      "target": "GHRH receptor",
+      "evidence": "Early human",
+      "description": "A long-acting GHRH analogue with small human hormonal-response trials.",
+      "mechanism": "The studied albumin-binding form prolongs GHRH-like stimulation of GH and IGF-I.",
+      "findings": "Early placebo-controlled trials showed sustained hormone increases; they were not trials of muscle gain, healing or longevity.",
+      "limits": "Products called “CJC-1295 without DAC” cannot automatically inherit results for the studied long-acting molecule.",
+      "kinetics": "The studied DAC form had multi-day persistence. Variant identity is essential when interpreting pharmacokinetics.",
+      "risks": "Limited trials cannot exclude rare harms. Compound-specific regulatory safety signals are listed below.",
+      "interactions": "Reliable clinical interaction studies are lacking.",
+      "refs": [
+        "g-16352683",
+        "g-peptide-safety"
+      ],
+      "query": "\"CJC-1295\" OR \"CJC1295\"",
+      "tags": [
+        "GHRH analogue",
+        "Molecular identity"
+      ],
+      "adverse": [
+        {
+          "effect": "Increased heart rate / vasodilatory reaction",
+          "context": "FDA describes serious associated events; available clinical evidence is limited.",
+          "certainty": "Regulatory safety signal",
+          "refs": [
+            "g-peptide-safety"
+          ]
+        },
+        {
+          "effect": "Cumulative hormonal exposure",
+          "context": "Repeated administration prolonged IGF-I elevation; long-term outcomes were not established.",
+          "certainty": "Human pharmacodynamic observation",
+          "refs": [
+            "g-16352683"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term cardiovascular and metabolic outcomes.",
+        "Equivalence of DAC and non-DAC products."
+      ]
+    },
+    {
+      "id": "ipamorelin",
+      "name": "Ipamorelin",
+      "alias": "Ghrelin-receptor peptide agonist",
+      "category": "Growth & peptides",
+      "target": "Ghrelin receptor (GHSR1a)",
+      "evidence": "Early human",
+      "description": "A ghrelin-receptor agonist tested in a small postoperative gastrointestinal trial.",
+      "mechanism": "Receptor stimulation can alter GI motility and GH signaling.",
+      "findings": "A placebo-controlled bowel-resection study did not show a statistically significant benefit on its key meal-tolerance endpoint.",
+      "limits": "Postoperative short-term intravenous data do not establish chronic endocrine or performance safety.",
+      "kinetics": "The clinical trial used a specific intravenous formulation; findings do not validate other routes.",
+      "risks": "Adverse events in surgical patients require interpretation against a high background event rate; broad safety claims are unwarranted.",
+      "interactions": "Clinical interaction evidence for chronic nonmedical use is inadequate.",
+      "refs": [
+        "g-25331030",
+        "g-peptide-safety"
+      ],
+      "query": "ipamorelin",
+      "tags": [
+        "Ghrelin agonist",
+        "Postoperative research"
+      ],
+      "adverse": [
+        {
+          "effect": "Serious events including deaths reported",
+          "context": "FDA notes events during intravenous GI-motility research; reporting does not by itself establish causation.",
+          "certainty": "Regulatory signal; causality unresolved",
+          "refs": [
+            "g-peptide-safety"
+          ]
+        },
+        {
+          "effect": "Other injection routes",
+          "context": "Safety evidence for those exposures is insufficient.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-peptide-safety"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term safety with repeated endocrine use.",
+        "Route-specific risks and rare-event incidence."
+      ]
+    },
+    {
+      "id": "ghrp2",
+      "name": "GHRP-2",
+      "alias": "Pralmorelin · Growth hormone-releasing peptide-2",
+      "category": "Growth & peptides",
+      "target": "Ghrelin receptor (GHSR1a)",
+      "evidence": "Early human",
+      "description": "A peptide secretagogue investigated in small appetite and endocrine experiments.",
+      "mechanism": "Ghrelin-receptor agonism stimulates GH; effects are not confined to GH secretion.",
+      "findings": "A small crossover experiment found increased food intake. Other endocrine experiments measured prolactin, ACTH and cortisol responses.",
+      "limits": "These experiments do not establish long-term functional benefits or a comprehensive safety profile.",
+      "kinetics": "Study exposure was route-specific and short; biomarker responses are not a validated chronic regimen.",
+      "risks": "Appetite and other pituitary-adrenal hormone changes are documented; serious reports have unresolved causality.",
+      "interactions": "Interaction studies for nonmedical combinations are insufficient.",
+      "refs": [
+        "g-15699539",
+        "g-10195374",
+        "g-peptide-safety"
+      ],
+      "query": "\"GHRP-2\" OR pralmorelin",
+      "tags": [
+        "Ghrelin agonist",
+        "Appetite"
+      ],
+      "adverse": [
+        {
+          "effect": "Increased appetite / food intake",
+          "context": "Observed acutely in a small healthy-male study.",
+          "certainty": "Human experimental observation",
+          "refs": [
+            "g-15699539"
+          ]
+        },
+        {
+          "effect": "Prolactin, ACTH and cortisol increases",
+          "context": "Measured after experimental administration; clinical consequences remain uncertain.",
+          "certainty": "Human endocrine observation",
+          "refs": [
+            "g-10195374"
+          ]
+        },
+        {
+          "effect": "Serious adverse-event reports",
+          "context": "FDA lists pancreatitis, infection and deaths; causality was not established.",
+          "certainty": "Regulatory signal; causality unresolved",
+          "refs": [
+            "g-peptide-safety"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Chronic metabolic effects and clinical outcome benefit.",
+        "Reliable compound-specific adverse-event rates."
+      ]
+    },
+    {
+      "id": "ghrp6",
+      "name": "GHRP-6",
+      "alias": "Growth hormone-releasing hexapeptide",
+      "category": "Growth & peptides",
+      "target": "Ghrelin receptor (GHSR1a)",
+      "evidence": "Early human",
+      "description": "A peptide GH secretagogue with small human endocrine and pharmacokinetic studies.",
+      "mechanism": "Activates secretagogue signaling and can stimulate additional pituitary-adrenal hormones.",
+      "findings": "A nine-person study characterized intravenous kinetics. A separate experiment observed GH, ACTH and cortisol changes.",
+      "limits": "Small mechanistic studies cannot determine rare harms or validate recovery and enhancement claims.",
+      "kinetics": "The cited intravenous study found biphasic disposition; this does not establish exposure after other routes.",
+      "risks": "Clinical long-term safety is poorly characterized; hormonal activity is broader than a selective GH effect.",
+      "interactions": "Validated interaction data for chronic combinations are lacking.",
+      "refs": [
+        "g-23099431",
+        "g-7617137"
+      ],
+      "query": "\"GHRP-6\" OR \"growth hormone releasing hexapeptide\"",
+      "tags": [
+        "Ghrelin agonist",
+        "Pharmacokinetics"
+      ],
+      "adverse": [
+        {
+          "effect": "ACTH / cortisol stimulation",
+          "context": "Observed in a small human experiment during sleep.",
+          "certainty": "Human endocrine observation",
+          "refs": [
+            "g-7617137"
+          ]
+        },
+        {
+          "effect": "Unknown chronic adverse effects",
+          "context": "The PK sample and acute experiments cannot quantify repeated-use metabolic or cardiovascular risk.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-23099431",
+            "g-7617137"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term metabolic and cardiovascular outcomes.",
+        "Safety and exposure for marketed non-IV formulations."
+      ]
+    },
+    {
+      "id": "hexarelin",
+      "name": "Hexarelin",
+      "alias": "Examorelin",
+      "category": "Growth & peptides",
+      "target": "Ghrelin receptor (GHSR1a)",
+      "evidence": "Early human",
+      "description": "A synthetic GH-releasing peptide examined in small endocrine studies.",
+      "mechanism": "Secretagogue signaling stimulates GH and can also affect prolactin and the ACTH–cortisol axis.",
+      "findings": "Human experiments documented endocrine responses. A small longer study examined the pituitary-adrenal axis during repeated exposure.",
+      "limits": "Biomarker experiments do not prove cardiovascular protection, muscle benefit or long-term safety.",
+      "kinetics": "Acute and repeated-exposure endocrine responses can differ; no universal exposure estimate follows.",
+      "risks": "The endocrine effects are not GH-specific. Their clinical consequences and chronic adverse-event incidence remain uncertain.",
+      "interactions": "Clinical interaction evidence is limited, particularly with other endocrine-active agents.",
+      "refs": [
+        "g-10195374",
+        "g-10341859"
+      ],
+      "query": "hexarelin OR examorelin",
+      "tags": [
+        "Ghrelin agonist",
+        "Pituitary-adrenal axis"
+      ],
+      "adverse": [
+        {
+          "effect": "Prolactin, ACTH and cortisol changes",
+          "context": "Measured in human endocrine experiments.",
+          "certainty": "Human pharmacodynamic observation",
+          "refs": [
+            "g-10195374"
+          ]
+        },
+        {
+          "effect": "Long-term adverse effects unresolved",
+          "context": "A small clinical study cannot establish rare-event or extended-use safety.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-10341859"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Clinically meaningful long-term benefits and harms.",
+        "Whether endocrine adaptation predicts clinical outcomes."
+      ]
+    },
+    {
+      "id": "bpc157",
+      "name": "BPC-157",
+      "alias": "Body protection compound-157",
+      "category": "Growth & peptides",
+      "target": "Multiple proposed repair pathways",
+      "evidence": "Early human",
+      "description": "An investigational peptide with extensive animal work but very limited human evidence.",
+      "mechanism": "Preclinical studies implicate angiogenic and cell-survival signaling; no validated clinical healing mechanism has been established.",
+      "findings": "A 2026 systematic review found only three small human studies with 30 participants and very-low-certainty evidence.",
+      "limits": "Uncontrolled reports and a two-person safety pilot cannot establish efficacy, uncommon harms or long-term safety.",
+      "kinetics": "Human pharmacokinetics remain inadequately characterized for claimed clinical uses.",
+      "risks": "No adverse events in tiny reports is not evidence of safety. Product quality and immune reactions remain concerns.",
+      "interactions": "Human interaction studies are inadequate.",
+      "refs": [
+        "g-42885452",
+        "g-40131143",
+        "g-27847966",
+        "g-peptide-safety"
+      ],
+      "query": "\"BPC-157\" OR \"BPC 157\"",
+      "tags": [
+        "Investigational peptide",
+        "Evidence gaps"
+      ],
+      "adverse": [
+        {
+          "effect": "Rare or delayed adverse effects unknown",
+          "context": "The human studies are too small and methodologically weak to characterize them.",
+          "certainty": "Very-low-certainty evidence",
+          "refs": [
+            "g-42885452",
+            "g-40131143"
+          ]
+        },
+        {
+          "effect": "Immunogenicity / impurity concerns",
+          "context": "FDA identifies potential peptide-product risks; incidence is not established.",
+          "certainty": "Regulatory concern",
+          "refs": [
+            "g-peptide-safety"
+          ]
+        },
+        {
+          "effect": "Angiogenic signaling is not clinical cancer proof",
+          "context": "VEGFR2-associated effects were studied preclinically; human tumor effects remain unresolved.",
+          "certainty": "Preclinical mechanism, uncertain clinical relevance",
+          "refs": [
+            "g-27847966"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Controlled human healing efficacy.",
+        "Long-term cancer, reproductive and immune safety."
+      ]
+    },
+    {
+      "id": "tb500",
+      "name": "TB-500",
+      "alias": "Ac-LKKTETQ · Thymosin beta-4 fragment",
+      "category": "Growth & peptides",
+      "target": "Proposed repair signaling; unvalidated",
+      "evidence": "Insufficient data",
+      "description": "A seven-amino-acid fragment often confused with full-length thymosin beta-4.",
+      "mechanism": "Biological equivalence to the 43-residue parent peptide has not been demonstrated.",
+      "findings": "A 2026 clinical review and FDA evaluation distinguish TB-500 from thymosin beta-4 and identify major evidence gaps.",
+      "limits": "Human studies of full-length thymosin beta-4 cannot be relabeled as TB-500 safety or efficacy evidence.",
+      "kinetics": "FDA found no clinical pharmacokinetic studies for the evaluated TB-500 forms.",
+      "risks": "Human adverse-effect rates are unknown; absence of reports cannot demonstrate safety.",
+      "interactions": "No reliable clinical interaction evidence was identified in the evaluated record.",
+      "refs": [
+        "g-42937313",
+        "g-tb500-fda"
+      ],
+      "query": "\"TB-500\" OR \"Ac-LKKTETQ\"",
+      "tags": [
+        "Peptide identity",
+        "Evidence gaps"
+      ],
+      "adverse": [
+        {
+          "effect": "Human adverse effects not characterized",
+          "context": "FDA did not identify clinical human safety studies for the evaluated forms.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-tb500-fda"
+          ]
+        },
+        {
+          "effect": "Reproductive / cancer risk unresolved",
+          "context": "The FDA evaluation lacked corresponding toxicology studies; this is uncertainty, not a demonstrated harm.",
+          "certainty": "Missing toxicology",
+          "refs": [
+            "g-tb500-fda"
+          ]
+        },
+        {
+          "effect": "Identity and product-quality uncertainty",
+          "context": "Commercial naming may conflate fragments, parent peptides and derivatives.",
+          "certainty": "Regulatory identity concern",
+          "refs": [
+            "g-tb500-fda",
+            "g-42937313"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Whether marketed products contain the evaluated fragment.",
+        "Human efficacy, pharmacokinetics and short- or long-term toxicity."
+      ]
+    },
+    {
+      "id": "aod9604",
+      "name": "AOD-9604",
+      "alias": "Modified GH 177–191 fragment",
+      "category": "Growth & peptides",
+      "target": "Metabolic pathways not clinically validated",
+      "evidence": "Mixed human",
+      "description": "A modified growth-hormone fragment investigated for obesity-related metabolic effects.",
+      "mechanism": "Designed to investigate GH-fragment metabolic activity without simply reproducing full-length GH signaling.",
+      "findings": "A pooled report summarized six human trials; its tolerability findings do not establish meaningful weight-loss efficacy.",
+      "limits": "Historical oral and intravenous research does not validate contemporary injectable products or every claimed route.",
+      "kinetics": "Formulation and route differences prevent a single exposure claim across products.",
+      "risks": "Limited historical tolerability data coexist with regulatory uncertainty about product-specific harms.",
+      "interactions": "Reliable clinical interaction information is incomplete.",
+      "refs": [
+        "g-aod-human",
+        "g-aod-fda",
+        "g-peptide-safety"
+      ],
+      "query": "AOD9604 OR \"AOD-9604\"",
+      "tags": [
+        "GH fragment",
+        "Metabolic research"
+      ],
+      "adverse": [
+        {
+          "effect": "Headache / gastrointestinal symptoms",
+          "context": "Reported in the clinical safety analysis; treatment attribution was not uniformly established.",
+          "certainty": "Clinical reporting; attribution limited",
+          "refs": [
+            "g-aod-human"
+          ]
+        },
+        {
+          "effect": "Serious-event reports with uncertain causality",
+          "context": "FDA notes associated reports; a causal relationship is unclear.",
+          "certainty": "Regulatory signal",
+          "refs": [
+            "g-peptide-safety"
+          ]
+        },
+        {
+          "effect": "Modern product and route uncertainty",
+          "context": "Historical study findings do not establish all current injectable formulations as equivalent.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-aod-fda"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Reproducible clinically meaningful efficacy.",
+        "Route-specific immunogenicity and longer-term safety."
+      ]
+    },
+    {
+      "id": "gw501516",
+      "name": "GW501516",
+      "alias": "Cardarine · GW1516",
+      "category": "Metabolic",
+      "target": "PPARδ",
+      "evidence": "Human trials",
+      "description": "A PPARδ agonist with human lipid studies and serious preclinical safety concerns; it is not a SARM.",
+      "mechanism": "Activates a nuclear receptor controlling lipid-related gene expression.",
+      "findings": "A randomized study changed lipoprotein markers in people with low HDL. It did not demonstrate improved clinical cardiovascular outcomes.",
+      "limits": "Favorable lipid biomarkers do not resolve carcinogenicity concerns or establish endurance-use safety.",
+      "kinetics": "Oral clinical exposure was investigated; pharmacokinetics do not supply evidence of acceptable long-term risk.",
+      "risks": "Regulators report animal-cancer findings; the corresponding magnitude of human cancer risk is unknown.",
+      "interactions": "Clinical interaction information is insufficient for nonmedical use.",
+      "refs": [
+        "g-22814748",
+        "g-gw-warning",
+        "g-gw-hsa"
+      ],
+      "query": "GW501516 OR GW1516 OR cardarine",
+      "tags": [
+        "PPAR agonist",
+        "Preclinical toxicity"
+      ],
+      "adverse": [
+        {
+          "effect": "Animal carcinogenicity signal",
+          "context": "HSA reports cancers in animal studies; this does not quantify human incidence.",
+          "certainty": "Serious preclinical signal",
+          "refs": [
+            "g-gw-hsa"
+          ]
+        },
+        {
+          "effect": "Development halted after serious toxicities",
+          "context": "WADA issued an alert about preclinical toxicities and discontinued development.",
+          "certainty": "Institutional safety alert",
+          "refs": [
+            "g-gw-warning"
+          ]
+        },
+        {
+          "effect": "Long-term human harm not quantified",
+          "context": "Short lipid trials cannot exclude cancer or rare delayed toxicity.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-22814748"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Human long-term cancer risk.",
+        "Clinical outcome benefit despite lipid-marker changes."
+      ]
+    },
+    {
+      "id": "sr9009",
+      "name": "SR9009",
+      "alias": "Stenabolic · Research compound",
+      "category": "Metabolic",
+      "target": "Putative REV-ERB; substantial off-target effects",
+      "evidence": "Preclinical",
+      "description": "A research compound often marketed using an oversimplified REV-ERB mechanism.",
+      "mechanism": "Although described as a REV-ERB agonist, genetic experiments found important effects persisting without REV-ERB receptors.",
+      "findings": "Cell experiments demonstrated altered proliferation, metabolism and gene expression independent of the nominal target.",
+      "limits": "This undermines treating every SR9009 effect as a specific REV-ERB effect; it does not establish human efficacy.",
+      "kinetics": "Human absorption and exposure are not established by the cited cell and genetic-model work.",
+      "risks": "Human clinical adverse effects are poorly characterized; cellular effects should not be presented as a clinical safety profile.",
+      "interactions": "Clinical interaction studies are lacking.",
+      "refs": [
+        "g-31127047"
+      ],
+      "query": "SR9009 OR \"SR-9009\"",
+      "tags": [
+        "Target uncertainty",
+        "Preclinical pharmacology"
+      ],
+      "adverse": [
+        {
+          "effect": "Cell proliferation / viability effects",
+          "context": "Observed experimentally, including when REV-ERBs were absent; human relevance is uncertain.",
+          "certainty": "Preclinical observation",
+          "refs": [
+            "g-31127047"
+          ]
+        },
+        {
+          "effect": "Unknown systemic adverse effects",
+          "context": "No validated human risk estimate follows from the cited study.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-31127047"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Clinically relevant molecular targets.",
+        "Human efficacy, bioavailability and toxicity."
+      ]
+    },
+    {
+      "id": "slupp332",
+      "name": "SLU-PP-332",
+      "alias": "Pan-ERR research agonist",
+      "category": "Metabolic",
+      "target": "Estrogen-related receptors α/β/γ",
+      "evidence": "Preclinical",
+      "description": "A small-molecule ERR agonist investigated as an exercise mimetic in preclinical models.",
+      "mechanism": "Activates ERR-dependent metabolic transcription; estrogen-related receptors are distinct from estrogen receptors.",
+      "findings": "Mouse and cell studies found oxidative-muscle and endurance-related changes. Newer studies examine scaffold chemistry and in vitro metabolism.",
+      "limits": "Mouse endurance gains do not establish human benefit, absorption or safety.",
+      "kinetics": "Human liver-system experiments identify metabolites but are not human clinical pharmacokinetic trials.",
+      "risks": "Human clinical adverse-effect rates are not established by this preclinical evidence.",
+      "interactions": "Human interaction data are inadequate.",
+      "refs": [
+        "g-36988910",
+        "g-41850449",
+        "g-41688415"
+      ],
+      "query": "\"SLU-PP-332\" OR \"SLU PP 332\"",
+      "tags": [
+        "ERR agonist",
+        "Exercise-mimetic research"
+      ],
+      "adverse": [
+        {
+          "effect": "Human toxicity unknown",
+          "context": "The cited efficacy foundation is preclinical, not a human safety program.",
+          "certainty": "Evidence gap",
+          "refs": [
+            "g-36988910",
+            "g-41850449"
+          ]
+        },
+        {
+          "effect": "Metabolite effects unresolved",
+          "context": "In vitro metabolic characterization does not establish the clinical effects of metabolites.",
+          "certainty": "Preclinical uncertainty",
+          "refs": [
+            "g-41688415"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Human exposure and efficacy.",
+        "Long-term organ, reproductive and cardiovascular safety."
+      ]
+    },
+    {
+      "id": "semaglutide",
+      "name": "Semaglutide",
+      "alias": "WEGOVY · OZEMPIC · RYBELSUS",
+      "category": "Metabolic",
+      "target": "GLP-1 receptor",
+      "evidence": "Human trials",
+      "description": "A GLP-1 receptor agonist with large clinical programs; indications and risks depend on the product.",
+      "mechanism": "Alters glucose-dependent insulin signaling, glucagon release, appetite and gastric emptying.",
+      "findings": "STEP 1 demonstrated substantial weight reduction in adults with overweight or obesity; clinical context matters.",
+      "limits": "Trial products and monitored populations cannot be treated as equivalent to unverified products.",
+      "kinetics": "Injectable and oral formulations have distinct absorption properties; product names are not interchangeable formulations.",
+      "risks": "GI adverse effects are common. Labels also address pancreatitis, gallbladder disease, dehydration-related kidney injury and other serious risks.",
+      "interactions": "Insulin or secretagogues can increase hypoglycemia risk; delayed gastric emptying can affect oral-drug assessment.",
+      "refs": [
+        "g-33567185",
+        "g-semaglutide-label"
+      ],
+      "query": "semaglutide",
+      "tags": [
+        "GLP-1 agonist",
+        "Clinical metabolic therapy"
+      ],
+      "adverse": [
+        {
+          "effect": "Nausea, vomiting, diarrhea / constipation",
+          "context": "Frequent clinical-trial and labeled adverse reactions.",
+          "certainty": "Established human risk",
+          "refs": [
+            "g-33567185",
+            "g-semaglutide-label"
+          ]
+        },
+        {
+          "effect": "Pancreatitis / gallbladder disease",
+          "context": "Recognized label warnings; individual causality and incidence depend on the event and population.",
+          "certainty": "Established label warnings",
+          "refs": [
+            "g-semaglutide-label"
+          ]
+        },
+        {
+          "effect": "Dehydration-related kidney injury / hypoglycemia context",
+          "context": "Renal injury can accompany fluid loss; hypoglycemia risk rises with insulin or secretagogues.",
+          "certainty": "Established label warnings",
+          "refs": [
+            "g-semaglutide-label"
+          ]
+        },
+        {
+          "effect": "Thyroid C-cell tumors in rodents",
+          "context": "Boxed warning; whether this translates to human medullary thyroid carcinoma is unknown.",
+          "certainty": "Animal finding / human uncertainty",
+          "refs": [
+            "g-semaglutide-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Individualized risk in underrepresented populations.",
+        "Unverified products cannot inherit pharmaceutical trial safety."
+      ]
+    },
+    {
+      "id": "tirzepatide",
+      "name": "Tirzepatide",
+      "alias": "MOUNJARO · ZEPBOUND",
+      "category": "Metabolic",
+      "target": "GIP and GLP-1 receptors",
+      "evidence": "Human trials",
+      "description": "A dual incretin-receptor agonist studied in diabetes, obesity and related clinical conditions.",
+      "mechanism": "Activates GIP and GLP-1 receptors, affecting appetite, insulin secretion and gastric emptying.",
+      "findings": "SURMOUNT-1 demonstrated substantial weight reduction in adults with obesity; GI events were the most common adverse events.",
+      "limits": "Comparisons with other drugs require comparable populations, estimands and trial designs.",
+      "kinetics": "Prolonged exposure and delayed gastric emptying are relevant; clinical product information is formulation-specific.",
+      "risks": "Common GI reactions coexist with labeled pancreatitis, gallbladder, dehydration, hypersensitivity and hypoglycemia warnings.",
+      "interactions": "Can alter oral-drug absorption; oral hormonal contraception and insulin/secretagogue therapy require specific clinical review.",
+      "refs": [
+        "g-35658024",
+        "g-tirzepatide-label"
+      ],
+      "query": "tirzepatide",
+      "tags": [
+        "Dual incretin agonist",
+        "Clinical metabolic therapy"
+      ],
+      "adverse": [
+        {
+          "effect": "Nausea, diarrhea, vomiting and constipation",
+          "context": "GI symptoms dominate the clinical adverse-event profile and can be severe.",
+          "certainty": "Established human risk",
+          "refs": [
+            "g-35658024",
+            "g-tirzepatide-label"
+          ]
+        },
+        {
+          "effect": "Pancreatitis / gallbladder events",
+          "context": "Label warnings require clinical interpretation rather than assuming every abdominal symptom has one cause.",
+          "certainty": "Established label warnings",
+          "refs": [
+            "g-tirzepatide-label"
+          ]
+        },
+        {
+          "effect": "Kidney injury with volume depletion / hypoglycemia context",
+          "context": "Fluid loss and concurrent glucose-lowering treatments modify risk.",
+          "certainty": "Established label warnings",
+          "refs": [
+            "g-tirzepatide-label"
+          ]
+        },
+        {
+          "effect": "Thyroid C-cell tumors in rodents",
+          "context": "Boxed warning; human relevance remains undetermined.",
+          "certainty": "Animal finding / human uncertainty",
+          "refs": [
+            "g-tirzepatide-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term risk estimates continue to evolve.",
+        "Safety cannot be transferred to unverified or differently formulated products."
+      ]
+    },
+    {
+      "id": "retatrutide",
+      "name": "Retatrutide",
+      "alias": "LY3437943 · Triple-receptor agonist",
+      "category": "Metabolic",
+      "target": "GIP, GLP-1 and glucagon receptors",
+      "evidence": "Human trials",
+      "description": "An investigational triple agonist with published phase 3 evidence as of 2026.",
+      "mechanism": "Activates three hormone receptors involved in energy and glucose regulation.",
+      "findings": "TRIUMPH-1 and TRIUMPH-2 report weight reduction; the latter studied adults with obesity and type 2 diabetes.",
+      "limits": "Phase 3 efficacy does not equal marketing approval or establish equivalence of products sold outside trials.",
+      "kinetics": "The clinical program studies a specific long-acting formulation; unverified products cannot inherit its exposure profile.",
+      "risks": "GI effects, heart-rate changes, hypotension and altered sensation have been reported in the clinical program.",
+      "interactions": "Comprehensive interaction information remains under development; there is no approved prescribing label for general use.",
+      "refs": [
+        "g-37366315",
+        "g-42810372",
+        "g-reta-triumph1",
+        "g-reta-status"
+      ],
+      "query": "retatrutide OR LY3437943",
+      "tags": [
+        "Triple agonist",
+        "Phase 3 research"
+      ],
+      "adverse": [
+        {
+          "effect": "Gastrointestinal symptoms",
+          "context": "Nausea and diarrhea were more common than placebo in TRIUMPH-2.",
+          "certainty": "Phase 3 clinical observation",
+          "refs": [
+            "g-42810372"
+          ],
+          "frequency": "TRIUMPH-2: nausea 14–28% versus 8% with placebo; diarrhea 27–34% versus 13%. Rates varied across study arms."
+        },
+        {
+          "effect": "Heart-rate increase",
+          "context": "Dose-related increases occurred in the earlier phase 2 obesity trial.",
+          "certainty": "Phase 2 clinical observation",
+          "refs": [
+            "g-37366315"
+          ]
+        },
+        {
+          "effect": "Hypotension / dysesthesia",
+          "context": "More frequent than placebo in the 2026 diabetes/obesity phase 3 trial.",
+          "certainty": "Phase 3 clinical observation",
+          "refs": [
+            "g-42810372"
+          ]
+        },
+        {
+          "effect": "Rare and long-term harms unresolved",
+          "context": "Approval has not been granted; ongoing research continues to define the risk-benefit profile.",
+          "certainty": "Ongoing clinical uncertainty",
+          "refs": [
+            "g-reta-status",
+            "g-42810372"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Rare adverse-event and long-term outcome estimates.",
+        "Interactions and safety beyond studied populations."
+      ]
+    }
+  ]
+}

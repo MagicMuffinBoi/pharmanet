@@ -1,0 +1,1069 @@
+{
+  "references": [
+    {
+      "id": "n-19234797",
+      "title": "Noopept versus piracetam in vascular or traumatic cognitive disorders",
+      "year": "2009",
+      "type": "Comparative clinical study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19234797/"
+    },
+    {
+      "id": "n-19240853",
+      "title": "Noopept and neurotrophin expression in rat hippocampus",
+      "year": "2008",
+      "type": "Animal study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19240853/"
+    },
+    {
+      "id": "n-32881852",
+      "title": "Phenibut exposures reported to US poison centers, 2009–2019",
+      "year": "2020",
+      "type": "Poison-center surveillance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32881852/"
+    },
+    {
+      "id": "n-30878413",
+      "title": "Phenibut exposures and clinical effects at a regional poison center",
+      "year": "2019",
+      "type": "Observational safety study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30878413/"
+    },
+    {
+      "id": "n-34520515",
+      "title": "Phenibut, a GABA-B agonist, detected in a fatality",
+      "year": "2021",
+      "type": "Case report",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34520515/"
+    },
+    {
+      "id": "n-25026323",
+      "title": "Tianeptine is a mu-opioid receptor agonist",
+      "year": "2014",
+      "type": "Mechanistic study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25026323/"
+    },
+    {
+      "id": "n-29995359",
+      "title": "Tianeptine in elderly patients with recurrent major depression",
+      "year": "2018",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29995359/"
+    },
+    {
+      "id": "n-19491814",
+      "title": "Ladasten versus placebo in neurasthenia",
+      "year": "2009",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19491814/"
+    },
+    {
+      "id": "n-22834121",
+      "title": "Ladasten and placebo responses in neurasthenia",
+      "year": "2012",
+      "type": "Clinical study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22834121/"
+    },
+    {
+      "id": "n-29798983",
+      "title": "Semax during ischemic stroke rehabilitation",
+      "year": "2018",
+      "type": "Clinical study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29798983/"
+    },
+    {
+      "id": "n-19633950",
+      "title": "Semax and neurotrophin gene transcription after cerebral ischemia",
+      "year": "2009",
+      "type": "Animal study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19633950/"
+    },
+    {
+      "id": "n-18454096",
+      "title": "Selank versus medazepam in anxiety disorders and neurasthenia",
+      "year": "2008",
+      "type": "Comparative clinical trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18454096/"
+    },
+    {
+      "id": "n-40312093",
+      "title": "Retraction of the dihexa HGF/c-Met mechanism paper",
+      "year": "2025",
+      "type": "Retraction notice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40312093/"
+    },
+    {
+      "id": "n-30626911",
+      "title": "NSI-189 in major depressive disorder: phase 2 trial",
+      "year": "2020",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30626911/"
+    },
+    {
+      "id": "n-26643541",
+      "title": "NSI-189 in depressed patients: phase 1b trial",
+      "year": "2016",
+      "type": "Randomized early-phase trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26643541/"
+    },
+    {
+      "id": "n-14600801",
+      "title": "AMPA signaling in the effects of sunifiram and unifiram",
+      "year": "2003",
+      "type": "Animal and laboratory study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14600801/"
+    },
+    {
+      "id": "n-25726789",
+      "title": "Phenylpiracetam in the observational TRIUMPH program",
+      "year": "2015",
+      "type": "Observational study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25726789/"
+    },
+    {
+      "id": "n-1822317",
+      "title": "Aniracetam in Alzheimer-type dementia",
+      "year": "1991",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1822317/"
+    },
+    {
+      "id": "n-19025058",
+      "title": "Aniracetam pharmacokinetics in healthy volunteers",
+      "year": "2008",
+      "type": "Pharmacokinetic study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19025058/"
+    },
+    {
+      "id": "n-29339723",
+      "title": "Fasoracetam in genetically selected adolescents with ADHD",
+      "year": "2018",
+      "type": "Early clinical study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29339723/"
+    },
+    {
+      "id": "n-39683633",
+      "title": "Acute alpha-GPC and cognitive performance in healthy men",
+      "year": "2024",
+      "type": "Randomized crossover trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39683633/"
+    },
+    {
+      "id": "n-34817582",
+      "title": "Alpha-GPC prescription exposure and subsequent stroke risk",
+      "year": "2021",
+      "type": "Retrospective cohort",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34817582/"
+    },
+    {
+      "id": "n-42783376",
+      "title": "Correction to the alpha-GPC stroke cohort methods and article information",
+      "year": "2026",
+      "type": "Correction",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42783376/"
+    },
+    {
+      "id": "n-21502597",
+      "title": "Huperzine A in mild to moderate Alzheimer disease",
+      "year": "2011",
+      "type": "Randomized phase 2 trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21502597/"
+    },
+    {
+      "id": "n-fda-tianeptine",
+      "title": "FDA: tianeptine toxicity, dependence, and unapproved US status",
+      "year": "Current agency information",
+      "type": "FDA safety information",
+      "url": "https://www.fda.gov/consumers/health-fraud-scams/tianeptine"
+    },
+    {
+      "id": "n-phenibut-fda",
+      "title": "FDA: phenibut does not qualify as a dietary ingredient",
+      "year": "Current agency information",
+      "type": "FDA regulatory information",
+      "url": "https://www.fda.gov/food/information-select-dietary-supplement-ingredients-and-other-substances/phenibut-dietary-supplements"
+    },
+    {
+      "id": "n-methylphenidate-label",
+      "title": "Ritalin (methylphenidate) prescribing information",
+      "year": "Current DailyMed label",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fb2750-cdab-4749-ba0d-7534840a5892"
+    },
+    {
+      "id": "n-atomoxetine-label",
+      "title": "Atomoxetine prescribing information",
+      "year": "Current DailyMed label",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b757805-eabf-4301-85be-7a3e38f6b187"
+    },
+    {
+      "id": "n-selegiline-label",
+      "title": "Selegiline hydrochloride capsule prescribing information",
+      "year": "Current DailyMed label",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=23c4481f-d150-40c6-addb-b3e454ca914f"
+    }
+  ],
+  "compounds": [
+    {
+      "id": "noopept",
+      "name": "Noopept",
+      "alias": "Omberacetam · GVS-111",
+      "category": "Nootropics",
+      "target": "Human mechanism unresolved",
+      "evidence": "Early human",
+      "description": "A synthetic dipeptide-like compound with a small comparative clinical literature.",
+      "mechanism": "Neurotrophin expression changes were reported in rat hippocampus; this does not demonstrate neurogenesis or disease prevention in people.",
+      "findings": "A small comparative study evaluated cognitive impairment of vascular or traumatic origin against piracetam.",
+      "limits": "The design and population do not establish enhancement in healthy adults.",
+      "kinetics": "Human exposure and formulation-equivalence information remains limited in these sources.",
+      "risks": "Reliable adverse-effect frequencies and long-term safety estimates are not established by this evidence set.",
+      "interactions": "Human interaction studies are insufficient; mechanistic speculation cannot replace interaction data.",
+      "refs": [
+        "n-19234797",
+        "n-19240853"
+      ],
+      "query": "Noopept OR omberacetam OR \"GVS-111\"",
+      "tags": [
+        "Dipeptide analogue",
+        "Cognitive impairment"
+      ],
+      "adverse": [
+        {
+          "effect": "Adverse-effect incidence unquantified",
+          "context": "The small comparative clinical record cannot reliably identify uncommon or delayed harm.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-19234797"
+          ]
+        },
+        {
+          "effect": "Neurotrophin-related safety unknown",
+          "context": "Rat gene-expression findings are not a human safety assessment.",
+          "certainty": "Preclinical uncertainty",
+          "refs": [
+            "n-19240853"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term neurological and reproductive safety",
+        "Independent replication in healthy adults"
+      ]
+    },
+    {
+      "id": "phenibut",
+      "name": "Phenibut",
+      "alias": "β-phenyl-GABA · Fenibut",
+      "category": "Nootropics",
+      "target": "GABA-B receptor",
+      "evidence": "Human safety reports",
+      "description": "A GABA-related drug encountered in anxiety and sleep products, with a substantial toxicity record.",
+      "mechanism": "GABA-B agonism contributes to central nervous system depression.",
+      "findings": "Poison-center surveillance and clinical reports document acute toxicity and withdrawal; these are safety data, not evidence of cognitive benefit.",
+      "limits": "Exposure reports are selected and sometimes involve other substances; their percentages are not risks per user.",
+      "kinetics": "Clinical toxicity can outlast perceived effects; marketed-product identity and exposure are uncertain.",
+      "risks": "Dependence, withdrawal, impaired consciousness, and respiratory depression are documented concerns.",
+      "interactions": "Other CNS depressants may increase impairment and respiratory risk; direct combination-risk estimates are limited.",
+      "refs": [
+        "n-32881852",
+        "n-30878413",
+        "n-34520515",
+        "n-phenibut-fda"
+      ],
+      "query": "phenibut OR fenibut",
+      "tags": [
+        "GABA signaling",
+        "Dependence"
+      ],
+      "adverse": [
+        {
+          "effect": "Sedation, confusion, coma",
+          "context": "Observed in reported poison-center exposures, including single-substance cases.",
+          "certainty": "Human toxicity reports",
+          "refs": [
+            "n-32881852"
+          ]
+        },
+        {
+          "effect": "Respiratory depression",
+          "context": "A regional series included respiratory failure requiring airway support.",
+          "certainty": "Human toxicity reports",
+          "refs": [
+            "n-30878413"
+          ]
+        },
+        {
+          "effect": "Dependence and withdrawal",
+          "context": "Anxiety, agitation and psychosis have been described after repeated use.",
+          "certainty": "Human safety reports",
+          "refs": [
+            "n-32881852"
+          ]
+        }
+      ],
+      "unknowns": [
+        "True incidence among users",
+        "Long-term cognitive outcomes"
+      ]
+    },
+    {
+      "id": "tianeptine",
+      "name": "Tianeptine",
+      "alias": "Atypical antidepressant",
+      "category": "Nootropics",
+      "target": "Mu-opioid receptor",
+      "evidence": "Human trials",
+      "description": "An antidepressant in some jurisdictions that also has opioid pharmacology.",
+      "mechanism": "Mu-opioid receptor agonism is experimentally established; older descriptions focused too narrowly on serotonin.",
+      "findings": "A controlled trial found antidepressant effects in older patients with recurrent depression.",
+      "limits": "Therapeutic clinical data cannot validate unregulated products or nonmedical cognitive-enhancement claims.",
+      "kinetics": "Products, exposure patterns and coingredients differ between medical trials and reported poisonings.",
+      "risks": "FDA reports serious toxicity, dependence and withdrawal associated with marketed tianeptine products.",
+      "interactions": "Opioids, alcohol and other CNS depressants create additional concern; unverified coingredients complicate attribution.",
+      "refs": [
+        "n-25026323",
+        "n-29995359",
+        "n-fda-tianeptine"
+      ],
+      "query": "tianeptine",
+      "tags": [
+        "Opioid pharmacology",
+        "Depression"
+      ],
+      "adverse": [
+        {
+          "effect": "Respiratory depression and loss of consciousness",
+          "context": "Severe toxicity is described in FDA safety information; product identity and coexposures can vary.",
+          "certainty": "Human safety reports",
+          "refs": [
+            "n-fda-tianeptine"
+          ]
+        },
+        {
+          "effect": "Dependence and withdrawal",
+          "context": "Documented with tianeptine misuse; not excluded by short therapeutic trials.",
+          "certainty": "Human safety reports",
+          "refs": [
+            "n-fda-tianeptine"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Risk for any particular unregulated formulation",
+        "Safety of use for cognitive enhancement"
+      ]
+    },
+    {
+      "id": "bromantane",
+      "name": "Bromantane",
+      "alias": "Ladasten",
+      "category": "Nootropics",
+      "target": "Proposed monoamine pathways",
+      "evidence": "Human trials",
+      "description": "An adamantane derivative studied for asthenia and neurasthenia.",
+      "mechanism": "A precise human target-to-benefit mechanism is not established by the cited clinical studies.",
+      "findings": "A Russian placebo comparison reported reduced asthenic symptoms; another study investigated EEG-related differences in response.",
+      "limits": "Limited independent replication and reporting detail restrict generalization.",
+      "kinetics": "The cited records do not establish a broadly validated human exposure model.",
+      "risks": "A short study's lack of observed withdrawal cannot establish absence of addiction or long-term adverse effects.",
+      "interactions": "Reliable clinical interaction studies are insufficient.",
+      "refs": [
+        "n-19491814",
+        "n-22834121"
+      ],
+      "query": "bromantane OR ladasten",
+      "tags": [
+        "Asthenia",
+        "Adamantane derivative"
+      ],
+      "adverse": [
+        {
+          "effect": "Long-term adverse effects unquantified",
+          "context": "Short clinical observations do not resolve delayed or uncommon harm.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-19491814"
+          ]
+        },
+        {
+          "effect": "Dependence potential unresolved",
+          "context": "No withdrawal observed in one short study is narrower than proof of no addictive potential.",
+          "certainty": "Limited clinical evidence",
+          "refs": [
+            "n-19491814"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Independent long-duration safety studies",
+        "Effects in healthy adults"
+      ]
+    },
+    {
+      "id": "semax",
+      "name": "Semax",
+      "alias": "ACTH(4–7)-PGP",
+      "category": "Nootropics",
+      "target": "Human mechanism unresolved",
+      "evidence": "Early human",
+      "description": "A synthetic peptide investigated in neurological disease and preclinical neurotrophin research.",
+      "mechanism": "Changes in neurotrophin-related transcription were studied in rat ischemia models.",
+      "findings": "A clinical stroke-rehabilitation study examined BDNF and functional measures.",
+      "limits": "Selected patient studies do not demonstrate general cognitive enhancement; modified Semax derivatives are different compounds.",
+      "kinetics": "Clinical formulation and route cannot be assumed equivalent to online preparations.",
+      "risks": "Reliable frequencies for serious, delayed or formulation-specific adverse effects remain unresolved.",
+      "interactions": "Human drug–peptide interaction data are inadequate.",
+      "refs": [
+        "n-29798983",
+        "n-19633950"
+      ],
+      "query": "Semax",
+      "tags": [
+        "Neuropeptide",
+        "Stroke research"
+      ],
+      "adverse": [
+        {
+          "effect": "Human adverse-event incidence uncertain",
+          "context": "The limited clinical record is inadequate to characterize uncommon or long-term reactions.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-29798983"
+          ]
+        },
+        {
+          "effect": "Modified-product safety unknown",
+          "context": "Data for Semax cannot establish safety of acetylated or amidated variants.",
+          "certainty": "Formulation uncertainty",
+          "refs": [
+            "n-29798983"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term immune and neurological safety",
+        "Independent controlled efficacy replication"
+      ]
+    },
+    {
+      "id": "selank",
+      "name": "Selank",
+      "alias": "Tuftsin analogue",
+      "category": "Nootropics",
+      "target": "Human mechanism unresolved",
+      "evidence": "Early human",
+      "description": "A synthetic peptide investigated for anxiety and neurasthenia.",
+      "mechanism": "An exploratory study measured blood enkephalin-related biomarkers; a biomarker association is not a validated clinical target.",
+      "findings": "A 62-patient comparison with medazepam reported anxiolytic findings.",
+      "limits": "An active-comparator study of this size does not resolve efficacy against placebo or prove cognitive enhancement.",
+      "kinetics": "Preparation, route and peptide modifications can change exposure; equivalence is unproven.",
+      "risks": "The cited trial cannot establish frequencies of uncommon, immune-mediated or delayed harms.",
+      "interactions": "Reliable clinical interaction studies are lacking.",
+      "refs": [
+        "n-18454096"
+      ],
+      "query": "Selank",
+      "tags": [
+        "Neuropeptide",
+        "Anxiety research"
+      ],
+      "adverse": [
+        {
+          "effect": "Adverse-event frequencies uncertain",
+          "context": "Small comparative patient research cannot establish a comprehensive side-effect profile.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-18454096"
+          ]
+        },
+        {
+          "effect": "Modified-product safety unknown",
+          "context": "Original-compound findings do not establish safety of modified commercial derivatives.",
+          "certainty": "Formulation uncertainty",
+          "refs": [
+            "n-18454096"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term and reproductive safety",
+        "Placebo-controlled replication and interaction data"
+      ]
+    },
+    {
+      "id": "dihexa",
+      "name": "Dihexa",
+      "alias": "PNB-0408 · Angiotensin-IV analogue",
+      "category": "Nootropics",
+      "target": "Proposed HGF/c-Met; unconfirmed",
+      "evidence": "Insufficient data",
+      "description": "An experimental compound with a major integrity warning in its foundational literature.",
+      "mechanism": "The commonly cited HGF/c-Met mechanism paper was retracted in 2025; its findings should not be treated as established.",
+      "findings": "The retraction notice documents withdrawal of the foundational 2014 mechanism study.",
+      "limits": "Mechanism and benefit claims require independent validation. Findings from related compounds are not interchangeable.",
+      "kinetics": "Reliable human pharmacokinetics are not established in the evidence curated here.",
+      "risks": "No dependable human adverse-effect incidence or long-term safety estimate is available.",
+      "interactions": "Human interaction data are lacking.",
+      "refs": [
+        "n-40312093"
+      ],
+      "query": "dihexa",
+      "tags": [
+        "Evidence integrity",
+        "Experimental"
+      ],
+      "adverse": [
+        {
+          "effect": "Human side effects unknown",
+          "context": "No reliable human safety assessment is provided by the cited evidence.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-40312093"
+          ]
+        },
+        {
+          "effect": "Mechanism-related safety unresolved",
+          "context": "Retracted findings cannot establish clinical safety or predict an adverse-effect profile.",
+          "certainty": "Evidence-integrity concern",
+          "refs": [
+            "n-40312093"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Independent confirmation of mechanism",
+        "Human safety, exposure and clinical benefit"
+      ],
+      "integrity": {
+        "note": "The foundational 2014 HGF/c-Met mechanism paper was retracted in 2025. Its mechanistic conclusions are not treated as established evidence here. Independent studies, if any, require separate appraisal.",
+        "refs": [
+          "n-40312093"
+        ]
+      }
+    },
+    {
+      "id": "nsi189",
+      "name": "NSI-189",
+      "alias": "Neurogenic research compound",
+      "category": "Nootropics",
+      "target": "Target not clinically established",
+      "evidence": "Mixed human",
+      "description": "An investigational compound tested in major depressive disorder.",
+      "mechanism": "Described as neurogenic in preclinical work; human benefit does not itself verify hippocampal neurogenesis.",
+      "findings": "A 220-participant phase 2 trial did not meet its primary depression endpoint, despite exploratory secondary findings.",
+      "limits": "Secondary outcomes and an earlier small study do not override the negative primary result.",
+      "kinetics": "An early study characterized oral exposure in depressed patients.",
+      "risks": "Short trials constrain long-term safety conclusions.",
+      "interactions": "Dedicated interaction evidence is insufficient for broad real-world use.",
+      "refs": [
+        "n-30626911",
+        "n-26643541"
+      ],
+      "query": "\"NSI-189\" OR \"NSI 189\"",
+      "tags": [
+        "Depression research",
+        "Negative primary endpoint"
+      ],
+      "adverse": [
+        {
+          "effect": "Headache",
+          "context": "Reported in the small phase 1b study in active and placebo groups; not automatically caused by treatment.",
+          "certainty": "Observed during human trial",
+          "refs": [
+            "n-26643541"
+          ]
+        },
+        {
+          "effect": "Nausea",
+          "context": "Reported during early clinical testing; small groups cannot establish a stable incidence.",
+          "certainty": "Observed during human trial",
+          "refs": [
+            "n-26643541"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term neurological safety",
+        "Replication of exploratory cognitive findings"
+      ]
+    },
+    {
+      "id": "sunifiram",
+      "name": "Sunifiram",
+      "alias": "DM-235",
+      "category": "Nootropics",
+      "target": "AMPA-linked signaling (preclinical)",
+      "evidence": "Preclinical",
+      "description": "An experimental cognition-related compound studied in animal and laboratory models.",
+      "mechanism": "Experimental results implicate AMPA-mediated neurotransmission; this is not proof of a selective direct receptor target in humans.",
+      "findings": "Mouse amnesia experiments and rat hippocampal assays reported effects on learning-related signaling.",
+      "limits": "Reversing experimentally induced amnesia does not demonstrate enhancement in healthy people.",
+      "kinetics": "No reliable human pharmacokinetic model is established by the cited study.",
+      "risks": "Human neurological, cardiovascular and reproductive safety remain unknown.",
+      "interactions": "Human interaction studies are lacking; interactions cannot be inferred from the absence of case reports.",
+      "refs": [
+        "n-14600801"
+      ],
+      "query": "Sunifiram OR \"DM-235\"",
+      "tags": [
+        "Glutamate signaling",
+        "Experimental"
+      ],
+      "adverse": [
+        {
+          "effect": "Human adverse effects unknown",
+          "context": "Animal behavioral findings do not establish a human safety profile.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-14600801"
+          ]
+        },
+        {
+          "effect": "Excitatory-neurotransmission risks unresolved",
+          "context": "Seizure or excitotoxicity risk is a mechanistic question, not a demonstrated incidence for this compound.",
+          "certainty": "Unproven theoretical concern",
+          "refs": [
+            "n-14600801"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Human efficacy and exposure",
+        "Long-term and seizure-related safety"
+      ]
+    },
+    {
+      "id": "unifiram",
+      "name": "Unifiram",
+      "alias": "DM-232",
+      "category": "Nootropics",
+      "target": "AMPA-linked signaling (preclinical)",
+      "evidence": "Preclinical",
+      "description": "An experimental cognition-related compound studied in animal and laboratory models.",
+      "mechanism": "Experimental results implicate AMPA-mediated neurotransmission; this is not proof of a selective direct receptor target in humans.",
+      "findings": "Mouse amnesia experiments and rat hippocampal assays reported effects on learning-related signaling.",
+      "limits": "Reversing experimentally induced amnesia does not demonstrate enhancement in healthy people.",
+      "kinetics": "No reliable human pharmacokinetic model is established by the cited study.",
+      "risks": "Human neurological, cardiovascular and reproductive safety remain unknown.",
+      "interactions": "Human interaction studies are lacking; interactions cannot be inferred from the absence of case reports.",
+      "refs": [
+        "n-14600801"
+      ],
+      "query": "Unifiram OR \"DM-232\"",
+      "tags": [
+        "Glutamate signaling",
+        "Experimental"
+      ],
+      "adverse": [
+        {
+          "effect": "Human adverse effects unknown",
+          "context": "Animal behavioral findings do not establish a human safety profile.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-14600801"
+          ]
+        },
+        {
+          "effect": "Excitatory-neurotransmission risks unresolved",
+          "context": "Seizure or excitotoxicity risk is a mechanistic question, not a demonstrated incidence for this compound.",
+          "certainty": "Unproven theoretical concern",
+          "refs": [
+            "n-14600801"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Human efficacy and exposure",
+        "Long-term and seizure-related safety"
+      ]
+    },
+    {
+      "id": "phenylpiracetam",
+      "name": "Phenylpiracetam",
+      "alias": "Fonturacetam · Phenotropil",
+      "category": "Nootropics",
+      "target": "Human mechanism unresolved",
+      "evidence": "Early human",
+      "description": "A phenyl-substituted racetam investigated in neurological patient populations.",
+      "mechanism": "Clinical symptom changes do not validate a specific receptor mechanism.",
+      "findings": "An observational program reported improved asthenic symptoms in patients with chronic brain ischemia.",
+      "limits": "Without randomized control, natural history, expectancy and cointerventions can influence outcomes.",
+      "kinetics": "Clinical exposure and stereoisomer-specific pharmacology require further characterization.",
+      "risks": "Reliable adverse-effect rates and long-term risks are not defined by the cited observational record.",
+      "interactions": "Clinical interaction data are insufficient.",
+      "refs": [
+        "n-25726789"
+      ],
+      "query": "phenylpiracetam OR fonturacetam OR phenotropil",
+      "tags": [
+        "Racetams",
+        "Asthenia"
+      ],
+      "adverse": [
+        {
+          "effect": "Adverse-event incidence uncertain",
+          "context": "An observational improvement report cannot establish comprehensive safety.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-25726789"
+          ]
+        },
+        {
+          "effect": "Long-term neurological effects unknown",
+          "context": "The cited clinical program does not establish long-duration safety in healthy people.",
+          "certainty": "Insufficient human data",
+          "refs": [
+            "n-25726789"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Controlled evidence in healthy people",
+        "Independent long-term safety"
+      ]
+    },
+    {
+      "id": "aniracetam",
+      "name": "Aniracetam",
+      "alias": "Ro 13-5057",
+      "category": "Nootropics",
+      "target": "Glutamatergic modulation proposed",
+      "evidence": "Human trials",
+      "description": "A racetam with historical dementia trials and small human pharmacokinetic studies.",
+      "mechanism": "Glutamatergic effects are proposed; the clinical mechanism is not settled by the cited trials.",
+      "findings": "A 109-patient placebo-controlled dementia study reported benefits on psychobehavioral measures.",
+      "limits": "Historical dementia findings do not establish healthy-person enhancement or current standard-of-care effectiveness.",
+      "kinetics": "A small volunteer study evaluated oral formulations and exposure.",
+      "risks": "Favorable short-study tolerability cannot exclude rare or delayed adverse effects.",
+      "interactions": "Reliable contemporary interaction characterization is limited in these sources.",
+      "refs": [
+        "n-1822317",
+        "n-19025058"
+      ],
+      "query": "aniracetam OR \"Ro 13-5057\"",
+      "tags": [
+        "Racetams",
+        "Dementia research"
+      ],
+      "adverse": [
+        {
+          "effect": "Uncommon or delayed harms unquantified",
+          "context": "Historical tolerability statements do not give a complete modern risk estimate.",
+          "certainty": "Limited clinical evidence",
+          "refs": [
+            "n-1822317"
+          ]
+        },
+        {
+          "effect": "Product-equivalence uncertainty",
+          "context": "A studied formulation's exposure cannot be assumed for unverified products.",
+          "certainty": "Formulation uncertainty",
+          "refs": [
+            "n-19025058"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Independent contemporary efficacy trials",
+        "Long-term safety and interaction data"
+      ]
+    },
+    {
+      "id": "fasoracetam",
+      "name": "Fasoracetam",
+      "alias": "NS-105 · NFC-1",
+      "category": "Nootropics",
+      "target": "Metabotropic glutamate signaling",
+      "evidence": "Early human",
+      "description": "An investigational compound examined in genetically selected adolescents with ADHD.",
+      "mechanism": "The clinical program targeted altered mGluR-network signaling; general nootropic claims are broader than the study.",
+      "findings": "A 30-person early study reported symptom improvement after a single-blind placebo week.",
+      "limits": "Small size, sequential design and genetic selection limit causal inference and generalization.",
+      "kinetics": "The trial characterized oral exposure in its selected population.",
+      "risks": "Adverse events occurred during testing, without a clear active-week excess over placebo week.",
+      "interactions": "Dedicated interaction studies remain limited.",
+      "refs": [
+        "n-29339723"
+      ],
+      "query": "fasoracetam OR \"NFC-1\" OR \"NS-105\"",
+      "tags": [
+        "Genetically selected ADHD",
+        "Glutamate signaling"
+      ],
+      "adverse": [
+        {
+          "effect": "Headache and fatigue",
+          "context": "Reported across study weeks; frequencies did not differ between placebo and active weeks.",
+          "certainty": "Observed during human trial",
+          "refs": [
+            "n-29339723"
+          ]
+        },
+        {
+          "effect": "Dizziness with brief loss of consciousness",
+          "context": "Occurred during the study; investigators did not attribute serious events to the drug. Causality remains uncertain.",
+          "certainty": "Human trial safety event",
+          "refs": [
+            "n-29339723"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Safety outside the selected population",
+        "Long-term efficacy and harm"
+      ]
+    },
+    {
+      "id": "alpha-gpc",
+      "name": "Alpha-GPC",
+      "alias": "Choline alphoscerate",
+      "category": "Nootropics",
+      "target": "Choline availability",
+      "evidence": "Mixed human",
+      "description": "A choline-containing compound with small cognition trials and an observational vascular safety signal.",
+      "mechanism": "It supplies a choline precursor; this does not imply universally beneficial cholinergic effects.",
+      "findings": "A small acute crossover trial assessed cognition. A large Korean prescription cohort found an association with subsequent stroke.",
+      "limits": "The cohort cannot prove causation. A September 2026 correction fixed diagnostic-code descriptions and author information.",
+      "kinetics": "Acute supplement exposure differs from years of prescription exposure.",
+      "risks": "The stroke association warrants investigation but is not a randomized estimate of causal risk.",
+      "interactions": "Combination effects with cholinergic medicines remain incompletely quantified.",
+      "refs": [
+        "n-39683633",
+        "n-34817582",
+        "n-42783376"
+      ],
+      "query": "\"alpha-GPC\" OR \"choline alphoscerate\" OR glycerylphosphorylcholine",
+      "tags": [
+        "Choline metabolism",
+        "Vascular signal"
+      ],
+      "adverse": [
+        {
+          "effect": "Stroke association",
+          "context": "Observed in older prescription users; confounding by indication and residual confounding remain possible.",
+          "certainty": "Observational association",
+          "refs": [
+            "n-34817582"
+          ]
+        },
+        {
+          "effect": "Long-term risk in young supplement users unknown",
+          "context": "Neither the small acute trial nor older-patient cohort directly quantifies that setting.",
+          "certainty": "Population uncertainty",
+          "refs": [
+            "n-39683633"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Whether the stroke association is causal",
+        "Long-duration randomized safety"
+      ]
+    },
+    {
+      "id": "huperzine-a",
+      "name": "Huperzine A",
+      "alias": "Huperzia-derived alkaloid",
+      "category": "Nootropics",
+      "target": "Acetylcholinesterase",
+      "evidence": "Mixed human",
+      "description": "A cholinesterase inhibitor investigated in Alzheimer disease.",
+      "mechanism": "Acetylcholinesterase inhibition increases cholinergic signaling.",
+      "findings": "A 210-person phase 2 trial did not meet its primary cognitive endpoint; secondary findings were insufficient to establish benefit.",
+      "limits": "Disease-specific trial findings do not establish enhancement in healthy people.",
+      "kinetics": "Clinical exposure is formulation-dependent; botanical mixtures are not equivalent to the isolated study compound.",
+      "risks": "Nausea was an important tolerability problem in the cited trial.",
+      "interactions": "Other cholinesterase inhibitors may add cholinergic effects; this is a pharmacologic concern, not a quantified combination trial result.",
+      "refs": [
+        "n-21502597"
+      ],
+      "query": "\"huperzine A\"",
+      "tags": [
+        "Cholinergic signaling",
+        "Alzheimer research"
+      ],
+      "adverse": [
+        {
+          "effect": "Nausea and treatment intolerance",
+          "context": "Nausea was the most common reason for intolerance in the phase 2 trial.",
+          "certainty": "Observed during human trial",
+          "refs": [
+            "n-21502597"
+          ]
+        },
+        {
+          "effect": "Other cholinergic adverse effects",
+          "context": "Class-related effects require assessment; the trial was too small to exclude uncommon harms.",
+          "certainty": "Class concern",
+          "refs": [
+            "n-21502597"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term benefit-risk balance",
+        "Safety of combined cholinergic exposure"
+      ]
+    },
+    {
+      "id": "methylphenidate",
+      "name": "Methylphenidate",
+      "alias": "Ritalin · Multiple formulations",
+      "category": "Nootropics",
+      "target": "Dopamine / norepinephrine transporters",
+      "evidence": "Human trials",
+      "description": "A prescription stimulant used in ADHD and selected sleep disorders.",
+      "mechanism": "Transporter inhibition increases catecholamine signaling.",
+      "findings": "Clinical evidence and labeling concern diagnosed conditions; healthy-person cognitive enhancement is a separate question.",
+      "limits": "Different release formulations have different exposure profiles.",
+      "kinetics": "Immediate- and extended-release products are not pharmacokinetically interchangeable.",
+      "risks": "Cardiovascular, sleep, appetite and psychiatric effects accompany a boxed warning for abuse, misuse and addiction.",
+      "interactions": "MAO inhibitor exposure is contraindicated; other interactions require the specific current product label.",
+      "refs": [
+        "n-methylphenidate-label"
+      ],
+      "query": "methylphenidate",
+      "tags": [
+        "Prescription stimulant",
+        "Catecholamines"
+      ],
+      "adverse": [
+        {
+          "effect": "Insomnia, appetite loss, anxiety",
+          "context": "Commonly reported labeled adverse reactions.",
+          "certainty": "Established label information",
+          "refs": [
+            "n-methylphenidate-label"
+          ]
+        },
+        {
+          "effect": "Increased pulse or blood pressure",
+          "context": "Clinically relevant labeled effects; serious cardiac disease changes risk assessment.",
+          "certainty": "Established label information",
+          "refs": [
+            "n-methylphenidate-label"
+          ]
+        },
+        {
+          "effect": "Abuse, misuse and addiction",
+          "context": "Boxed warning; therapeutic indication does not remove this risk.",
+          "certainty": "Boxed warning",
+          "refs": [
+            "n-methylphenidate-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Individual response and cardiovascular vulnerability",
+        "Benefit-risk balance for healthy-person enhancement"
+      ]
+    },
+    {
+      "id": "atomoxetine",
+      "name": "Atomoxetine",
+      "alias": "Selective norepinephrine reuptake inhibitor",
+      "category": "Nootropics",
+      "target": "Norepinephrine transporter",
+      "evidence": "Human trials",
+      "description": "A nonstimulant prescription medicine for ADHD.",
+      "mechanism": "Norepinephrine transporter inhibition changes catecholamine signaling.",
+      "findings": "Labeled clinical benefit concerns ADHD rather than universal enhancement.",
+      "limits": "Clinical response and adverse effects vary by population and metabolic genotype.",
+      "kinetics": "CYP2D6 metabolism strongly affects exposure; inhibitors and poor-metabolizer status can increase concentrations.",
+      "risks": "GI, appetite, sexual, urinary and cardiovascular effects are important; rare severe liver injury is labeled.",
+      "interactions": "MAO inhibitors are contraindicated; strong CYP2D6 inhibitors can substantially raise exposure.",
+      "refs": [
+        "n-atomoxetine-label"
+      ],
+      "query": "atomoxetine",
+      "tags": [
+        "ADHD",
+        "Pharmacogenetics"
+      ],
+      "adverse": [
+        {
+          "effect": "Nausea, appetite loss, dry mouth",
+          "context": "Common labeled reactions; urinary and sexual effects also occur in adults.",
+          "certainty": "Established label information",
+          "refs": [
+            "n-atomoxetine-label"
+          ]
+        },
+        {
+          "effect": "Suicidal ideation in children and adolescents",
+          "context": "Boxed warning based on short-term pediatric trial findings.",
+          "certainty": "Boxed warning",
+          "refs": [
+            "n-atomoxetine-label"
+          ]
+        },
+        {
+          "effect": "Severe liver injury",
+          "context": "Rare postmarketing concern in labeling; incidence cannot be estimated precisely.",
+          "certainty": "Established label warning",
+          "refs": [
+            "n-atomoxetine-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Individual exposure under CYP2D6 variation",
+        "Risk-benefit balance outside ADHD"
+      ]
+    },
+    {
+      "id": "selegiline",
+      "name": "Selegiline",
+      "alias": "Deprenyl · Formulation-dependent MAOI",
+      "category": "Nootropics",
+      "target": "Monoamine oxidase",
+      "evidence": "Human trials",
+      "description": "A monoamine oxidase inhibitor with formulation-specific clinical uses.",
+      "mechanism": "Selectivity and systemic monoamine effects depend on formulation and exposure.",
+      "findings": "The cited capsule label concerns adjunctive Parkinson treatment; transdermal depression data cannot be transferred unchanged.",
+      "limits": "Clinical use for a diagnosed disorder does not establish nootropic benefit.",
+      "kinetics": "Oral metabolism and irreversible enzyme inhibition mean blood half-life alone cannot define duration of interactions.",
+      "risks": "Nausea, sleep disturbance, hallucinations and postural hypotension have been reported.",
+      "interactions": "Serious interactions occur with meperidine and other serotonergic or sympathomimetic medicines; formulation-specific restrictions matter.",
+      "refs": [
+        "n-selegiline-label"
+      ],
+      "query": "selegiline OR deprenyl",
+      "tags": [
+        "MAO inhibition",
+        "Parkinson research"
+      ],
+      "adverse": [
+        {
+          "effect": "Orthostatic hypotension and loss of balance",
+          "context": "Reported in treated Parkinson patients, often with concomitant dopaminergic therapy.",
+          "certainty": "Established label information",
+          "refs": [
+            "n-selegiline-label"
+          ]
+        },
+        {
+          "effect": "Hallucinations, confusion, insomnia",
+          "context": "Reported neurological and psychiatric adverse effects.",
+          "certainty": "Established label information",
+          "refs": [
+            "n-selegiline-label"
+          ]
+        },
+        {
+          "effect": "Severe interaction reactions",
+          "context": "Hyperthermia, agitation, rigidity and deaths are described with meperidine coadministration.",
+          "certainty": "Established label warning",
+          "refs": [
+            "n-selegiline-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Causal attribution with concomitant levodopa",
+        "Healthy-person cognitive benefit"
+      ]
+    }
+  ]
+}

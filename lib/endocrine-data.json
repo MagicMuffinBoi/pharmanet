@@ -1,0 +1,1174 @@
+{
+  "references": [
+    {
+      "id": "e-oxy-label",
+      "title": "ANADROL (oxymetholone): archived FDA label",
+      "year": "2004 · archived",
+      "type": "Prescribing information",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/16848s021lbl.pdf"
+    },
+    {
+      "id": "e-19356374",
+      "title": "Oxymetholone in hemodialysis: randomized trial of insulin sensitivity",
+      "year": "2009",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19356374/"
+    },
+    {
+      "id": "e-42729935",
+      "title": "Oxymetholone-associated cholestatic injury: longitudinal case report",
+      "year": "2026",
+      "type": "Case report",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42729935/"
+    },
+    {
+      "id": "e-125133",
+      "title": "Methandienone: crossover double-blind trial in weightlifters",
+      "year": "1975",
+      "type": "Randomized crossover trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/125133/"
+    },
+    {
+      "id": "e-61389",
+      "title": "Methandienone in athletic training: body composition and endocrine effects",
+      "year": "1976",
+      "type": "Double-blind crossover trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/61389/"
+    },
+    {
+      "id": "e-28166954",
+      "title": "Boldenone and stanozolol exposure: testicular injury in rats",
+      "year": "2017",
+      "type": "Animal study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28166954/"
+    },
+    {
+      "id": "e-30116498",
+      "title": "Boldenone-associated myocardial injury in rats",
+      "year": "2018",
+      "type": "Animal study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30116498/"
+    },
+    {
+      "id": "e-42628193",
+      "title": "Boldenone endocrine disruption in female rat reproductive tissues",
+      "year": "2026",
+      "type": "Animal study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42628193/"
+    },
+    {
+      "id": "e-362297",
+      "title": "Controlled comparison of androgens including drostanolone in breast cancer",
+      "year": "1978",
+      "type": "Controlled clinical trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/362297/"
+    },
+    {
+      "id": "e-367090",
+      "title": "Methenolone in refractory anemia: a small therapeutic series",
+      "year": "1979",
+      "type": "Clinical series",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/367090/"
+    },
+    {
+      "id": "e-2680994",
+      "title": "WHO double-blind study of mesterolone in male infertility",
+      "year": "1989",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2680994/"
+    },
+    {
+      "id": "e-mesterolone-label",
+      "title": "Proviron (mesterolone): manufacturer product characteristics",
+      "year": "2023",
+      "type": "Prescribing information",
+      "url": "https://www.bayer.com/sites/default/files/proviron-smpc-nov-2023-0.pdf"
+    },
+    {
+      "id": "e-33550376",
+      "title": "HAARLEM: testicular function during and after androgen use",
+      "year": "2021",
+      "type": "Prospective observational study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33550376/"
+    },
+    {
+      "id": "e-32736958",
+      "title": "Women reporting masculinizing and reproductive effects of anabolic steroids",
+      "year": "2021",
+      "type": "Qualitative interview study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32736958/"
+    },
+    {
+      "id": "e-livertox",
+      "title": "LiverTox: androgenic steroids and liver injury",
+      "year": "NCBI clinical reference",
+      "type": "Clinical reference",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548931/"
+    },
+    {
+      "id": "e-14652237",
+      "title": "Paroxetine reduced exposure to tamoxifen's active metabolite endoxifen",
+      "year": "2003",
+      "type": "Prospective pharmacokinetic study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14652237/"
+    },
+    {
+      "id": "e-tamoxifen-label",
+      "title": "Tamoxifen citrate: warnings and adverse reactions",
+      "year": "Current label page",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b8a4211-120f-4981-ad69-928accb97637"
+    },
+    {
+      "id": "e-clomiphene-label",
+      "title": "Clomiphene citrate: visual and ovarian safety warnings",
+      "year": "Current label page",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=79f64995-7425-44c6-9f44-f7d20daeff65"
+    },
+    {
+      "id": "e-26496621",
+      "title": "Enclomiphene phase III studies: testosterone and sperm endpoints",
+      "year": "2015",
+      "type": "Randomized trials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26496621/"
+    },
+    {
+      "id": "e-enclomiphene-ema",
+      "title": "EMA assessment: refusal of EnCyzix (enclomifene)",
+      "year": "2018",
+      "type": "Regulatory assessment",
+      "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf"
+    },
+    {
+      "id": "e-anastrozole-label",
+      "title": "Anastrozole: bone, cardiovascular, and lipid warnings",
+      "year": "Current label page",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d1d5818-1594-4f54-90a9-ae9a9afcdc67"
+    },
+    {
+      "id": "e-letrozole-label",
+      "title": "Letrozole: clinical trial adverse reactions and pharmacology",
+      "year": "Current label page",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cb1da0ac-8db1-4482-824d-430511d1b7a0"
+    },
+    {
+      "id": "e-exemestane-label",
+      "title": "Exemestane: bone effects and CYP3A4 interactions",
+      "year": "2025",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e24b08eb-4693-41c7-81cb-b536947f7070&version=2"
+    },
+    {
+      "id": "e-finasteride-label",
+      "title": "Finasteride: clinical adverse reactions and postmarketing reports",
+      "year": "Current label page",
+      "type": "Prescribing information",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=32266029-c710-44dd-943f-7e31d0afa622&type=display"
+    },
+    {
+      "id": "e-dutasteride-label",
+      "title": "Dutasteride: sexual effects, PSA interpretation, and interactions",
+      "year": "Current label page",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ad309b1-4497-8b9b-e063-6394a90aa9b4"
+    },
+    {
+      "id": "e-42696286",
+      "title": "Society for Endocrinology position statement: management of nonmedical androgen use",
+      "year": "2026",
+      "type": "Professional society statement",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696286/"
+    },
+    {
+      "id": "e-hcg-label",
+      "title": "Pregnyl (chorionic gonadotropin): safety and pharmacology",
+      "year": "Current label page",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9"
+    },
+    {
+      "id": "e-23844963",
+      "title": "Clenbuterol misuse: adverse events reported to poison centers",
+      "year": "2013",
+      "type": "Retrospective clinical study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23844963/"
+    },
+    {
+      "id": "e-24580525",
+      "title": "Clenbuterol toxicity: NSW poisons information centre experience",
+      "year": "2014",
+      "type": "Retrospective observational study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24580525/"
+    },
+    {
+      "id": "e-liothyronine-label",
+      "title": "CYTOMEL (liothyronine): 2026 prescribing information",
+      "year": "2026",
+      "type": "Prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51452b31-ff68-4e0c-b982-c15502ebf1d3"
+    },
+    {
+      "id": "e-33021407",
+      "title": "DNP toxicity: poison-center epidemiology and predictors of death",
+      "year": "2021",
+      "type": "Retrospective clinical study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33021407/"
+    },
+    {
+      "id": "e-41487961",
+      "title": "DNP poisoning: clinical and mitochondrial observations from two cases",
+      "year": "2025 / 2026 collection",
+      "type": "Case reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41487961/"
+    }
+  ],
+  "compounds": [
+    {
+      "id": "oxymetholone",
+      "name": "Oxymetholone",
+      "alias": "Anadrol · 17α-alkylated androgen",
+      "category": "Steroids",
+      "target": "Androgen receptor",
+      "evidence": "Human trials",
+      "description": "An oral anabolic androgen studied in anemia and selected wasting conditions.",
+      "mechanism": "Androgenic signaling influences erythropoiesis and protein metabolism; anabolic and androgenic actions are not fully separable.",
+      "findings": "A randomized dialysis trial reported changes in body composition and insulin resistance, with liver-enzyme elevations in two treated patients.",
+      "limits": "Disease-specific findings do not establish long-term safety or benefits in healthy people. A 2026 liver-injury case involved concurrent testosterone and unverified products.",
+      "kinetics": "Orally active; the structural modification permitting oral use is also relevant to hepatic risk.",
+      "risks": "Cholestatic liver injury is a substantial concern. The archived label also describes fluid retention and adverse lipid changes.",
+      "interactions": "The archived label warns of enhanced anticoagulant effects and altered glucose-management requirements; current clinical review is necessary.",
+      "refs": [
+        "e-oxy-label",
+        "e-19356374",
+        "e-42729935"
+      ],
+      "query": "oxymetholone",
+      "tags": [
+        "Anemia",
+        "Hepatic safety"
+      ],
+      "adverse": [
+        {
+          "effect": "Cholestatic liver injury",
+          "context": "Human case reports; the recent report cannot definitively attribute injury to one of the co-exposures.",
+          "certainty": "Human safety signal",
+          "refs": [
+            "e-42729935"
+          ]
+        },
+        {
+          "effect": "Liver-enzyme elevations",
+          "context": "Observed in a small controlled hemodialysis trial; its frequency is not a general-user estimate.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-19356374"
+          ]
+        },
+        {
+          "effect": "Edema and adverse lipid changes",
+          "context": "Listed in historical product labeling.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-oxy-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term molecule-specific cardiovascular incidence in nonmedical users.",
+        "Risk added by unverified commercial formulations."
+      ]
+    },
+    {
+      "id": "methandienone",
+      "name": "Methandienone",
+      "alias": "Methandrostenolone · Dianabol",
+      "category": "Steroids",
+      "target": "Androgen receptor",
+      "evidence": "Mixed human",
+      "description": "An oral anabolic androgen with small, historical training studies.",
+      "mechanism": "Synthetic androgen signaling changes endocrine feedback and tissue metabolism; a lean-mass measurement can include fluid shifts.",
+      "findings": "One small crossover trial reported increased blood pressure and apparent water-related weight gain. Another found reduced endogenous testosterone without a significant strength advantage over placebo.",
+      "limits": "The trials were small, old, and inconsistent; they do not establish long-term health outcomes.",
+      "kinetics": "An orally active 17α-alkylated steroid; oral activity does not imply low hepatic burden.",
+      "risks": "Hypertension, fluid retention, and endocrine suppression have direct clinical observations. Hepatic concerns also arise from the 17α-alkylated class.",
+      "interactions": "Dedicated interaction evidence is incomplete; liver-active medicines and anticoagulants warrant product-specific clinical assessment.",
+      "refs": [
+        "e-125133",
+        "e-61389",
+        "e-livertox"
+      ],
+      "query": "methandienone OR methandrostenolone",
+      "tags": [
+        "Historical trials",
+        "Endocrine feedback"
+      ],
+      "adverse": [
+        {
+          "effect": "Raised systolic blood pressure",
+          "context": "Observed in 13 male weightlifters in a historical crossover experiment.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-125133"
+          ]
+        },
+        {
+          "effect": "Fluid-related weight gain",
+          "context": "Investigators identified water shifts as an important explanation for apparent anabolic changes.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-125133",
+            "e-61389"
+          ]
+        },
+        {
+          "effect": "Reduced endogenous testosterone",
+          "context": "Reported during the second small crossover study.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-61389"
+          ]
+        },
+        {
+          "effect": "Liver injury concern",
+          "context": "Supported by the broader 17α-alkylated steroid class; not a molecule-specific incidence estimate.",
+          "certainty": "Class extrapolation",
+          "refs": [
+            "e-livertox"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Reliable long-term event rates.",
+        "How much apparent lean-mass change represents water rather than contractile tissue."
+      ]
+    },
+    {
+      "id": "boldenone",
+      "name": "Boldenone",
+      "alias": "Boldenone undecylenate · Equipoise",
+      "category": "Steroids",
+      "target": "Androgen receptor",
+      "evidence": "Preclinical",
+      "description": "A veterinary anabolic androgen with substantial uncertainty about human harms.",
+      "mechanism": "Androgen receptor activation alters endocrine feedback and androgen-responsive tissues.",
+      "findings": "Animal experiments report testicular tissue damage and myocardial lesions. A 2026 female-rat study found disrupted reproductive hormones and ovarian changes.",
+      "limits": "Animal injuries identify hazards, not human incidence or exposure equivalence. Controlled human safety evidence is inadequate in these sources.",
+      "kinetics": "The undecylenate ester changes release and persistence; animal dosing studies do not define human exposure.",
+      "risks": "Reproductive and cardiac concerns are supported by animal observations. Human quantitative risk remains unresolved.",
+      "interactions": "Human interaction studies are lacking; other androgenic exposure would complicate attribution.",
+      "refs": [
+        "e-28166954",
+        "e-30116498",
+        "e-42628193"
+      ],
+      "query": "boldenone",
+      "tags": [
+        "Veterinary androgen",
+        "Animal toxicology"
+      ],
+      "adverse": [
+        {
+          "effect": "Testicular injury",
+          "context": "Histological and inflammatory changes in male rats.",
+          "certainty": "Animal signal",
+          "refs": [
+            "e-28166954"
+          ]
+        },
+        {
+          "effect": "Myocardial injury",
+          "context": "Rat heart lesions included hypertrophy and fibrosis; this cannot quantify human risk.",
+          "certainty": "Animal signal",
+          "refs": [
+            "e-30116498"
+          ]
+        },
+        {
+          "effect": "Reproductive endocrine disruption",
+          "context": "A 2026 study reported ovarian and hormone alterations in female rats.",
+          "certainty": "Animal signal",
+          "refs": [
+            "e-42628193"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Human incidence and reversibility of cardiac and reproductive injury.",
+        "Risks of formulation contaminants and co-exposures."
+      ]
+    },
+    {
+      "id": "drostanolone",
+      "name": "Drostanolone",
+      "alias": "Dromostanolone · Masteron",
+      "category": "Steroids",
+      "target": "Androgen receptor",
+      "evidence": "Human trials",
+      "description": "An androgen formerly studied as endocrine therapy for advanced breast cancer.",
+      "mechanism": "A synthetic androgen acting through androgen-sensitive biology; historical oncology use does not establish selective protection from harms.",
+      "findings": "A controlled comparison in advanced breast cancer studied drostanolone alongside other hormonal agents; the evidence is historical and disease-specific.",
+      "limits": "These trials do not establish contemporary nonmedical safety or superiority for body composition.",
+      "kinetics": "The propionate formulation is not interchangeable with other esters or unverified products.",
+      "risks": "Endocrine suppression and masculinizing effects are class concerns; reliable drostanolone-specific event rates are not established here.",
+      "interactions": "Molecule-specific clinical interaction data are limited.",
+      "refs": [
+        "e-362297",
+        "e-33550376",
+        "e-32736958"
+      ],
+      "query": "drostanolone OR dromostanolone",
+      "tags": [
+        "Historical oncology",
+        "Androgen biology"
+      ],
+      "adverse": [
+        {
+          "effect": "Suppressed reproductive function",
+          "context": "Observed in mixed-androgen user cohorts; applying it to drostanolone is a class extrapolation.",
+          "certainty": "Class extrapolation",
+          "refs": [
+            "e-33550376"
+          ]
+        },
+        {
+          "effect": "Masculinizing effects",
+          "context": "Women using mixed anabolic steroids reported voice and genital changes; no drostanolone-specific frequency is established.",
+          "certainty": "Class extrapolation",
+          "refs": [
+            "e-32736958"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Molecule-specific long-term cardiovascular and reproductive outcomes.",
+        "Comparative safety versus other androgens."
+      ]
+    },
+    {
+      "id": "metenolone",
+      "name": "Metenolone",
+      "alias": "Methenolone · Primobolan",
+      "category": "Steroids",
+      "target": "Androgen receptor",
+      "evidence": "Early human",
+      "description": "An anabolic androgen with small, historical clinical reports.",
+      "mechanism": "Synthetic androgen signaling can affect erythropoiesis and endocrine feedback.",
+      "findings": "A 19-patient refractory-anemia series described some hematologic responses without obvious survival extension; its brief safety reporting cannot establish low risk.",
+      "limits": "Small uncontrolled disease cohorts are unsuitable for declaring safety in healthy users.",
+      "kinetics": "Acetate and enanthate preparations differ; clinical exposure cannot be inferred from a shared trade name.",
+      "risks": "Claims that this is a harmless or nonsuppressive steroid are not supported by the cited series. Class endocrine and masculinizing hazards remain relevant.",
+      "interactions": "Human interaction information is insufficient for a complete assessment.",
+      "refs": [
+        "e-367090",
+        "e-33550376",
+        "e-32736958"
+      ],
+      "query": "metenolone OR methenolone",
+      "tags": [
+        "Historical clinical data",
+        "Evidence gaps"
+      ],
+      "adverse": [
+        {
+          "effect": "Endocrine and fertility suppression concern",
+          "context": "A class inference from mixed-androgen cohort data, not a measured methenolone-specific rate.",
+          "certainty": "Class extrapolation",
+          "refs": [
+            "e-33550376"
+          ]
+        },
+        {
+          "effect": "Masculinizing effects concern",
+          "context": "A class inference from women reporting anabolic-steroid effects.",
+          "certainty": "Class extrapolation",
+          "refs": [
+            "e-32736958"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Reliable adverse-event incidence and long-term outcomes.",
+        "Whether marketed preparations match pharmaceutical formulations."
+      ]
+    },
+    {
+      "id": "mesterolone",
+      "name": "Mesterolone",
+      "alias": "Proviron · Oral androgen",
+      "category": "Steroids",
+      "target": "Androgen receptor",
+      "evidence": "Mixed human",
+      "description": "An oral androgen investigated in hypogonadism and male infertility.",
+      "mechanism": "Androgen activity does not itself demonstrate improved fertility or freedom from endocrine effects.",
+      "findings": "The WHO randomized infertility study did not establish a significant improvement in pregnancy or semen outcomes relative to placebo.",
+      "limits": "Fertility outcomes require more than a hormone or sperm-count change. Old therapeutic findings do not establish enhancement benefits.",
+      "kinetics": "The manufacturer describes extensive protein binding and metabolism, with a terminal serum half-life around 12–13 hours for the investigated product.",
+      "risks": "Product information describes frequent or persistent erections and hormone-sensitive tumor concerns.",
+      "interactions": "The manufacturer reports no known interactions; this is not proof that interactions are impossible.",
+      "refs": [
+        "e-2680994",
+        "e-mesterolone-label"
+      ],
+      "query": "mesterolone",
+      "tags": [
+        "Male infertility",
+        "Androgen signaling"
+      ],
+      "adverse": [
+        {
+          "effect": "Frequent or persistent erections",
+          "context": "Described in product safety information.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-mesterolone-label"
+          ]
+        },
+        {
+          "effect": "Hormone-sensitive tumor concerns",
+          "context": "Product information contraindicates prostate cancer and describes liver-tumor warnings.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-mesterolone-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term risk in people without diagnosed androgen deficiency.",
+        "Risk in unregulated products and polypharmacy."
+      ]
+    },
+    {
+      "id": "tamoxifen",
+      "name": "Tamoxifen",
+      "alias": "Selective estrogen receptor modulator",
+      "category": "Endocrine",
+      "target": "Estrogen receptors",
+      "evidence": "Human trials",
+      "description": "A SERM with established oncology uses and tissue-dependent estrogen effects.",
+      "mechanism": "Estrogen receptor antagonism in breast tissue coexists with agonist effects in other tissues.",
+      "findings": "Product labeling summarizes randomized breast-cancer treatment and prevention data; the clinical benefit-risk balance depends on indication.",
+      "limits": "Cancer prevention and treatment outcomes cannot validate unsupervised endocrine manipulation in healthy people.",
+      "kinetics": "Active metabolites and metabolic variability are clinically relevant; exposure is affected by drug interactions.",
+      "risks": "Thromboembolism is important. Uterine cancer warnings apply to people with a uterus, with risk quantified in particular female prevention populations.",
+      "interactions": "The label warns about coumarin anticoagulants. A clinical pharmacokinetic study found that paroxetine reduced exposure to active endoxifen; medication changes require clinical review.",
+      "refs": [
+        "e-tamoxifen-label",
+        "e-14652237"
+      ],
+      "query": "tamoxifen AND (safety OR pharmacology OR trial)",
+      "tags": [
+        "SERM",
+        "Oncology"
+      ],
+      "adverse": [
+        {
+          "effect": "Venous thrombosis and pulmonary embolism",
+          "context": "Established label concern; absolute rates vary by population and indication.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-tamoxifen-label"
+          ]
+        },
+        {
+          "effect": "Uterine malignancy",
+          "context": "Documented in female risk-reduction populations; anatomy and indication matter.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-tamoxifen-label"
+          ]
+        },
+        {
+          "effect": "Hot flashes and ocular effects",
+          "context": "Reported in the labeled clinical safety experience.",
+          "certainty": "Clinical safety observation",
+          "refs": [
+            "e-tamoxifen-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Risk-benefit balance for nonmedical use in otherwise healthy men."
+      ]
+    },
+    {
+      "id": "clomiphene",
+      "name": "Clomiphene",
+      "alias": "Clomifene · Clomid",
+      "category": "Endocrine",
+      "target": "Estrogen receptor feedback",
+      "evidence": "Human trials",
+      "description": "A SERM used for ovulation induction, also investigated off label in men.",
+      "mechanism": "Modulates estrogen feedback and gonadotropin release; the mixture contains pharmacologically distinct isomers.",
+      "findings": "The approved-label evidence concerns ovulatory dysfunction. Safety signals and their relevance vary substantially between women and men.",
+      "limits": "Female ovulation-induction data cannot provide male-specific adverse-event rates.",
+      "kinetics": "Isomers persist differently; total exposure cannot be summarized by a single short elimination window.",
+      "risks": "Visual symptoms may persist after stopping. Ovarian enlargement and hyperstimulation are relevant only to people with ovaries.",
+      "interactions": "The label notes that drug interactions have not been documented; absence of documentation is not a complete interaction assessment.",
+      "refs": [
+        "e-clomiphene-label"
+      ],
+      "query": "clomiphene OR clomifene",
+      "tags": [
+        "SERM",
+        "Gonadotropins"
+      ],
+      "adverse": [
+        {
+          "effect": "Visual disturbances",
+          "context": "Blur, flashes, and persistent or possibly irreversible visual effects are described in labeling.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-clomiphene-label"
+          ]
+        },
+        {
+          "effect": "Ovarian hyperstimulation",
+          "context": "A potentially serious complication in ovulation induction; not a male anatomical risk.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-clomiphene-label"
+          ]
+        },
+        {
+          "effect": "Hypertriglyceridemia and pancreatitis reports",
+          "context": "Postmarketing reports; rates and causal certainty are not established by spontaneous reports.",
+          "certainty": "Postmarketing signal",
+          "refs": [
+            "e-clomiphene-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term safety of chronic off-label use in men.",
+        "Incidence of persistent visual symptoms by population."
+      ]
+    },
+    {
+      "id": "enclomiphene",
+      "name": "Enclomiphene",
+      "alias": "Enclomifene · trans-clomiphene",
+      "category": "Endocrine",
+      "target": "Estrogen receptor feedback",
+      "evidence": "Human trials",
+      "description": "A SERM isomer investigated in secondary male hypogonadism.",
+      "mechanism": "Changes estrogen feedback, increasing LH and FSH in studied men.",
+      "findings": "Randomized trials increased testosterone and maintained sperm concentrations compared with testosterone gel. These are laboratory endpoints, not proof of symptom or fertility improvement.",
+      "limits": "The EMA assessment found missing clinically meaningful efficacy evidence and raised thromboembolic concerns.",
+      "kinetics": "Metabolite characterization and chronic safety were uncertainties in the regulatory assessment.",
+      "risks": "Venous thromboembolism was a material regulatory safety concern; limited studies cannot exclude rare events.",
+      "interactions": "Robust product-specific interaction characterization remains incomplete.",
+      "refs": [
+        "e-26496621",
+        "e-enclomiphene-ema"
+      ],
+      "query": "enclomiphene OR enclomifene",
+      "tags": [
+        "SERM",
+        "Surrogate outcomes"
+      ],
+      "adverse": [
+        {
+          "effect": "Venous thromboembolism",
+          "context": "EMA identified events in treated participants and judged the overall benefit-risk evidence insufficient.",
+          "certainty": "Regulatory safety concern",
+          "refs": [
+            "e-enclomiphene-ema"
+          ]
+        },
+        {
+          "effect": "Incomplete chronic toxicity characterization",
+          "context": "This is an evidence gap, not a demonstrated absence of harm.",
+          "certainty": "Uncertain",
+          "refs": [
+            "e-enclomiphene-ema"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Effects on symptoms, live-birth outcomes, and long-term morbidity.",
+        "Reliable individual thrombotic risk prediction."
+      ]
+    },
+    {
+      "id": "anastrozole",
+      "name": "Anastrozole",
+      "alias": "Arimidex · Aromatase inhibitor",
+      "category": "Endocrine",
+      "target": "Aromatase (CYP19A1)",
+      "evidence": "Human trials",
+      "description": "A nonsteroidal aromatase inhibitor used in hormone-sensitive breast cancer.",
+      "mechanism": "Suppresses conversion of androgens to estrogens; estrogen has important skeletal and metabolic functions.",
+      "findings": "The ATAC program documented cancer outcomes alongside bone loss and other adverse effects in postmenopausal women.",
+      "limits": "Those trial rates do not transfer directly to young men or nonmedical use.",
+      "kinetics": "Orally active; clinical effects reflect sustained enzyme inhibition as well as drug exposure.",
+      "risks": "Bone loss, joint symptoms, and lipid changes matter. Cardiovascular findings depend on baseline disease and comparator.",
+      "interactions": "Estrogen-containing products and tamoxifen can undermine the intended pharmacologic effect; this is not combination guidance.",
+      "refs": [
+        "e-anastrozole-label"
+      ],
+      "query": "anastrozole AND (safety OR bone OR pharmacology)",
+      "tags": [
+        "Aromatase",
+        "Estrogen suppression"
+      ],
+      "adverse": [
+        {
+          "effect": "Reduced bone mineral density",
+          "context": "Observed in the ATAC bone substudy in postmenopausal breast-cancer patients.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-anastrozole-label"
+          ]
+        },
+        {
+          "effect": "Arthralgia and hot flashes",
+          "context": "Reported in clinical trial safety data.",
+          "certainty": "Clinical safety observation",
+          "refs": [
+            "e-anastrozole-label"
+          ]
+        },
+        {
+          "effect": "Lipid and ischemic cardiovascular concerns",
+          "context": "Context includes tamoxifen comparison and pre-existing ischemic heart disease.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-anastrozole-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term risk-benefit of estrogen suppression in otherwise healthy men."
+      ]
+    },
+    {
+      "id": "letrozole",
+      "name": "Letrozole",
+      "alias": "Femara · Aromatase inhibitor",
+      "category": "Endocrine",
+      "target": "Aromatase (CYP19A1)",
+      "evidence": "Human trials",
+      "description": "A nonsteroidal aromatase inhibitor with extensive oncology trial data.",
+      "mechanism": "Inhibits estrogen synthesis, affecting both tumor biology and normal estrogen-dependent tissues.",
+      "findings": "Long-term adjuvant trials reported more fractures and hypercholesterolemia than selected comparators.",
+      "limits": "Comparator, menopause status, follow-up, and baseline risks determine the meaning of trial rates.",
+      "kinetics": "Oral exposure accumulates with repeated use; hepatic function is relevant to clinical pharmacology.",
+      "risks": "Skeletal adverse effects and musculoskeletal symptoms are important, alongside lipid abnormalities.",
+      "interactions": "Product information describes interactions with tamoxifen and other agents; indication-specific medication review is necessary.",
+      "refs": [
+        "e-letrozole-label"
+      ],
+      "query": "letrozole AND (safety OR fracture OR pharmacology)",
+      "tags": [
+        "Aromatase",
+        "Bone health"
+      ],
+      "adverse": [
+        {
+          "effect": "Fractures and osteoporosis",
+          "context": "Observed in adjuvant breast-cancer trials; absolute risks are population-specific.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-letrozole-label"
+          ]
+        },
+        {
+          "effect": "Hypercholesterolemia",
+          "context": "Reported more often than with tamoxifen in BIG 1-98.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-letrozole-label"
+          ]
+        },
+        {
+          "effect": "Arthralgia and hot flashes",
+          "context": "Common clinical trial symptoms, not evidence of therapeutic benefit.",
+          "certainty": "Clinical safety observation",
+          "refs": [
+            "e-letrozole-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Safety of nonmedical use and sustained estrogen suppression outside studied indications."
+      ]
+    },
+    {
+      "id": "exemestane",
+      "name": "Exemestane",
+      "alias": "Aromasin · Steroidal aromatase inhibitor",
+      "category": "Endocrine",
+      "target": "Aromatase (CYP19A1)",
+      "evidence": "Human trials",
+      "description": "A steroidal aromatase inactivator studied in postmenopausal breast cancer.",
+      "mechanism": "Irreversibly inactivates aromatase; steroidal structure does not make it an anabolic steroid substitute.",
+      "findings": "Oncology studies demonstrate disease-specific efficacy and measurable skeletal and symptom burdens.",
+      "limits": "Therapeutic oncology benefit does not establish benefit from lowering estrogen in a healthy person.",
+      "kinetics": "Metabolism and exposure are affected by strong CYP3A4 induction.",
+      "risks": "Bone-mineral loss, joint symptoms, fatigue, and vasomotor symptoms are established concerns.",
+      "interactions": "Strong CYP3A4 inducers reduce exposure; estrogen-containing agents can interfere with action.",
+      "refs": [
+        "e-exemestane-label"
+      ],
+      "query": "exemestane AND (safety OR bone OR pharmacology)",
+      "tags": [
+        "Aromatase",
+        "Enzyme inactivation"
+      ],
+      "adverse": [
+        {
+          "effect": "Reduced bone mineral density",
+          "context": "Observed during clinical use and addressed in prescribing warnings.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-exemestane-label"
+          ]
+        },
+        {
+          "effect": "Arthralgia, hot flushes, and fatigue",
+          "context": "Reported in randomized oncology trial safety data.",
+          "certainty": "Clinical safety observation",
+          "refs": [
+            "e-exemestane-label"
+          ]
+        },
+        {
+          "effect": "Insomnia and sweating",
+          "context": "Reported adverse reactions; rates depend on comparator and population.",
+          "certainty": "Clinical safety observation",
+          "refs": [
+            "e-exemestane-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term outcomes of nonmedical use in men."
+      ]
+    },
+    {
+      "id": "finasteride",
+      "name": "Finasteride",
+      "alias": "5α-reductase inhibitor",
+      "category": "Endocrine",
+      "target": "Type II 5α-reductase",
+      "evidence": "Human trials",
+      "description": "A DHT-lowering medicine used in prostate enlargement and hair loss.",
+      "mechanism": "Inhibits conversion of testosterone to dihydrotestosterone; effects are tissue- and indication-dependent.",
+      "findings": "Controlled trials and postmarketing surveillance support different kinds of safety evidence; spontaneous reports cannot establish event frequency.",
+      "limits": "Persistent-symptom reports require attention without converting voluntary reports into a population incidence estimate.",
+      "kinetics": "Pharmacologic DHT suppression and plasma elimination are different measurements.",
+      "risks": "Sexual adverse effects occur in trials. Persistent sexual symptoms and mood effects appear in postmarketing labeling, with attribution limits.",
+      "interactions": "The label does not identify clinically important interactions with studied drugs; this is not an exhaustive interaction guarantee. PSA interpretation changes during treatment.",
+      "refs": [
+        "e-finasteride-label"
+      ],
+      "query": "finasteride AND (safety OR adverse OR pharmacology)",
+      "tags": [
+        "DHT",
+        "Hair and prostate"
+      ],
+      "adverse": [
+        {
+          "effect": "Reduced libido, erectile and ejaculatory symptoms",
+          "context": "Reported in controlled clinical studies.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-finasteride-label"
+          ]
+        },
+        {
+          "effect": "Persistent sexual dysfunction reports",
+          "context": "Postmarketing reports; frequency and an independent causal contribution cannot reliably be determined from them.",
+          "certainty": "Postmarketing signal",
+          "refs": [
+            "e-finasteride-label"
+          ]
+        },
+        {
+          "effect": "Depression and suicidal ideation reports",
+          "context": "Included in postmarketing labeling; these data do not establish an individual risk estimate.",
+          "certainty": "Postmarketing signal",
+          "refs": [
+            "e-finasteride-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Predictors and incidence of persistent symptoms.",
+        "Independent contributions of exposure, underlying illness, and other medicines."
+      ]
+    },
+    {
+      "id": "dutasteride",
+      "name": "Dutasteride",
+      "alias": "Avodart · Dual 5α-reductase inhibitor",
+      "category": "Endocrine",
+      "target": "Type I and II 5α-reductase",
+      "evidence": "Human trials",
+      "description": "A DHT-lowering medicine with clinical data in benign prostatic hyperplasia.",
+      "mechanism": "Inhibits both major 5α-reductase isoenzymes, reducing DHT formation.",
+      "findings": "Controlled trials document prostate outcomes and sexual or breast-related adverse reactions.",
+      "limits": "Data in older men with prostate disease do not directly quantify risks in younger hair-loss users.",
+      "kinetics": "Long persistence after repeated exposure distinguishes it from short-acting agents; strong CYP3A4 inhibition can increase exposure.",
+      "risks": "Sexual and breast-related effects occur in trials; PSA lowering can complicate prostate-cancer assessment.",
+      "interactions": "Chronic potent CYP3A4 inhibitors are specifically highlighted in labeling.",
+      "refs": [
+        "e-dutasteride-label"
+      ],
+      "query": "dutasteride AND (safety OR adverse OR pharmacology)",
+      "tags": [
+        "DHT",
+        "Prostate biology"
+      ],
+      "adverse": [
+        {
+          "effect": "Erectile, libido, and ejaculation symptoms",
+          "context": "More commonly reported with dutasteride than placebo in BPH trials.",
+          "certainty": "Human trial observation",
+          "refs": [
+            "e-dutasteride-label"
+          ]
+        },
+        {
+          "effect": "Breast tenderness or enlargement",
+          "context": "Reported in controlled safety data.",
+          "certainty": "Clinical safety observation",
+          "refs": [
+            "e-dutasteride-label"
+          ]
+        },
+        {
+          "effect": "Altered PSA interpretation",
+          "context": "A pharmacologic effect that can obscure interpretation without appropriate clinical context.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-dutasteride-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Individual persistence and recovery of sexual symptoms.",
+        "Precise risk extrapolation across indications."
+      ]
+    },
+    {
+      "id": "hcg",
+      "name": "Human chorionic gonadotropin",
+      "alias": "hCG · Chorionic gonadotropin",
+      "category": "Endocrine",
+      "target": "LH / chorionic gonadotropin receptor",
+      "evidence": "Human trials",
+      "description": "A gonadotropin used in selected fertility and endocrine conditions.",
+      "mechanism": "Activates the LH receptor, stimulating gonadal steroid production; physiological consequences differ by sex and reproductive anatomy.",
+      "findings": "Product information describes use in ovulation induction and selected male hypogonadal conditions.",
+      "limits": "Raising gonadal hormones does not establish symptom or fertility recovery after nonmedical androgen use. A 2026 endocrine society statement found no robust evidence of improved long-term recovery from pharmacologic interventions in that setting.",
+      "kinetics": "An injected glycoprotein; formulation and underlying gonadal responsiveness affect exposure-response relationships.",
+      "risks": "Ovarian hyperstimulation can be severe in fertility treatment. Gynecomastia and hypersensitivity are also relevant.",
+      "interactions": "Can cross-react in some gonadotropin assays, complicating interpretation of LH-related laboratory results.",
+      "refs": [
+        "e-hcg-label",
+        "e-42696286"
+      ],
+      "query": "\"chorionic gonadotropin\" AND (safety OR pharmacology OR trial)",
+      "tags": [
+        "Gonadotropins",
+        "Reproductive medicine"
+      ],
+      "adverse": [
+        {
+          "effect": "Ovarian hyperstimulation syndrome",
+          "context": "Potentially severe in people undergoing ovarian stimulation; anatomy-specific.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-hcg-label"
+          ]
+        },
+        {
+          "effect": "Gynecomastia",
+          "context": "Reported with hCG treatment in male patients.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-hcg-label"
+          ]
+        },
+        {
+          "effect": "Hypersensitivity and injection reactions",
+          "context": "Reported in product safety information.",
+          "certainty": "Clinical safety observation",
+          "refs": [
+            "e-hcg-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Long-term outcomes in nonmedical endocrine manipulation."
+      ]
+    },
+    {
+      "id": "clenbuterol",
+      "name": "Clenbuterol",
+      "alias": "Long-acting β2-adrenergic agonist",
+      "category": "Metabolic",
+      "target": "β2-adrenergic receptors",
+      "evidence": "Human safety reports",
+      "description": "A β2 agonist with human toxicity evidence from poison-center studies.",
+      "mechanism": "Adrenergic stimulation affects cardiovascular physiology and shifts potassium into cells.",
+      "findings": "Poison-center cohorts documented tachycardia, tremor, gastrointestinal symptoms, electrolyte abnormalities, and cardiac injury signals after misuse.",
+      "limits": "Poison-center series establish clinically important hazards but cannot estimate incidence among all exposed people.",
+      "kinetics": "Prolonged symptoms have been reported; product claims do not reliably predict exposure or duration.",
+      "risks": "Arrhythmia, marked electrolyte disturbances, and myocardial injury are important concerns.",
+      "interactions": "Additional sympathomimetic exposure is a mechanistic concern, not a validated or safe combination strategy.",
+      "refs": [
+        "e-23844963",
+        "e-24580525"
+      ],
+      "query": "clenbuterol AND (toxicity OR safety OR pharmacology)",
+      "tags": [
+        "Adrenergic signaling",
+        "Clinical toxicology"
+      ],
+      "adverse": [
+        {
+          "effect": "Tachycardia and palpitations",
+          "context": "Frequently documented in poison-center reports.",
+          "certainty": "Human toxicity observation",
+          "refs": [
+            "e-23844963",
+            "e-24580525"
+          ]
+        },
+        {
+          "effect": "Hypokalemia and hyperglycemia",
+          "context": "Observed metabolic effects after exposure.",
+          "certainty": "Human toxicity observation",
+          "refs": [
+            "e-23844963"
+          ]
+        },
+        {
+          "effect": "Cardiac injury signals",
+          "context": "ECG changes, chest pain, and elevated troponin were reported; the cohorts cannot yield general incidence.",
+          "certainty": "Human safety signal",
+          "refs": [
+            "e-23844963"
+          ]
+        }
+      ],
+      "unknowns": [
+        "Reliable risk prediction for a given nonmedical product.",
+        "Long-term cardiovascular outcomes among unselected users."
+      ]
+    },
+    {
+      "id": "liothyronine",
+      "name": "Liothyronine",
+      "alias": "T3 · Cytomel",
+      "category": "Endocrine",
+      "target": "Thyroid hormone receptors",
+      "evidence": "Human trials",
+      "description": "Synthetic T3 used for specific thyroid indications, with a weight-loss boxed warning.",
+      "mechanism": "Thyroid receptor activation changes transcription and metabolic demand across tissues.",
+      "findings": "The 2026 label emphasizes replacement indications and adverse effects from thyroid-hormone excess.",
+      "limits": "Correcting deficiency differs from inducing excess in a person with normal thyroid function; the latter is not a validated weight-management strategy.",
+      "kinetics": "Oral absorption and clinical effects depend on physiology, concomitant products, and binding or metabolism interactions.",
+      "risks": "Over-replacement can cause arrhythmias, ischemia, anxiety, muscle weakness, and bone loss.",
+      "interactions": "Sympathomimetics can increase cardiovascular toxicity; anticoagulant and diabetes-treatment responses may also change.",
+      "refs": [
+        "e-liothyronine-label"
+      ],
+      "query": "liothyronine OR (triiodothyronine AND safety)",
+      "tags": [
+        "Thyroid signaling",
+        "Cardiac safety"
+      ],
+      "adverse": [
+        {
+          "effect": "Tachycardia, arrhythmia, and ischemic events",
+          "context": "Recognized consequences of excess thyroid-hormone exposure, especially with underlying cardiovascular disease.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-liothyronine-label"
+          ]
+        },
+        {
+          "effect": "Reduced bone mineral density",
+          "context": "Associated with over-replacement.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-liothyronine-label"
+          ]
+        },
+        {
+          "effect": "Anxiety, insomnia, tremor, and muscle weakness",
+          "context": "Clinical features of excessive thyroid-hormone effects.",
+          "certainty": "Label warning",
+          "refs": [
+            "e-liothyronine-label"
+          ]
+        }
+      ],
+      "unknowns": [
+        "No defensible individual safety margin can be inferred for nonmedical use from replacement therapy."
+      ]
+    },
+    {
+      "id": "dnp",
+      "name": "2,4-Dinitrophenol",
+      "alias": "DNP · Industrial mitochondrial toxin",
+      "category": "Metabolic",
+      "target": "Mitochondrial proton gradient",
+      "evidence": "Human safety reports",
+      "description": "A toxic mitochondrial uncoupler associated with severe and fatal human poisonings.",
+      "mechanism": "Dissipates the proton gradient, uncoupling respiration from ATP production and releasing energy as heat.",
+      "findings": "A US/UK poison-center study recorded severe toxicity and deaths. Recent clinical mitochondrial observations describe potentially self-amplifying metabolic failure.",
+      "limits": "Poisoning data cannot define a safe-use window, and mechanistic interest does not establish a therapeutic role for this chemical.",
+      "kinetics": "Toxicokinetics can be prolonged and unpredictable; observations from poisoning do not support a user-facing timing protocol.",
+      "risks": "Hyperthermia, acidosis, tachycardia, confusion, organ failure, and death are documented.",
+      "interactions": "No combination can be considered protective on the basis of these clinical reports.",
+      "refs": [
+        "e-33021407",
+        "e-41487961"
+      ],
+      "query": "\"2,4-dinitrophenol\" AND (toxicity OR poisoning OR mitochondria)",
+      "tags": [
+        "Mitochondrial toxicology",
+        "Severe toxicity"
+      ],
+      "adverse": [
+        {
+          "effect": "Hyperthermia and cardiovascular stress",
+          "context": "Documented in human poisoning cohorts and cases.",
+          "certainty": "Human toxicity observation",
+          "refs": [
+            "e-33021407",
+            "e-41487961"
+          ]
+        },
+        {
+          "effect": "Acidosis and metabolic failure",
+          "context": "Associated with fatal outcomes; case observations suggest reinforcing mitochondrial dysfunction.",
+          "certainty": "Human toxicity observation",
+          "refs": [
+            "e-33021407",
+            "e-41487961"
+          ]
+        },
+        {
+          "effect": "Fatal poisoning",
+          "context": "Deaths are documented; case-fatality in referred poison-center samples is not a general exposure incidence.",
+          "certainty": "Human toxicity observation",
+          "refs": [
+            "e-33021407"
+          ]
+        }
+      ],
+      "unknowns": [
+        "An individual safe exposure cannot be derived from the clinical evidence.",
+        "The proposed reinforcing mechanism remains based on limited clinical observations."
+      ]
+    }
+  ]
+}
